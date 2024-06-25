@@ -4,92 +4,92 @@
 <context>
     <name>App</name>
     <message>
-        <location filename="../src/app/app.cpp" line="256"/>
+        <location filename="../src/app/app.cpp" line="261"/>
         <source>Failed to set the hotkey &apos;%1&apos;</source>
         <translation>Festlegen des Tastenkürzels &apos;%1&apos; fehlgeschlagen</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="176"/>
+        <location filename="../src/app/app.cpp" line="181"/>
         <source>Show/Hide</source>
         <translation>Zeigen/Verbergen</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="180"/>
+        <location filename="../src/app/app.cpp" line="185"/>
         <source>Settings</source>
         <translation>Einstellungen</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="184"/>
+        <location filename="../src/app/app.cpp" line="189"/>
         <source>Open website</source>
         <translation>Webseite öffnen</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="190"/>
+        <location filename="../src/app/app.cpp" line="195"/>
         <source>Restart</source>
         <translation>Neu starten</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="194"/>
+        <location filename="../src/app/app.cpp" line="199"/>
         <source>Quit</source>
         <translation>Beenden</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="223"/>
+        <location filename="../src/app/app.cpp" line="228"/>
         <source>Albert collects anonymous data to enhance user experience. You can review the data to be sent in the details. Opt in?</source>
         <translation>Albert sammelt anonyme Daten, um die Benutzererfahrung zu verbessern. Du kannst die zu sendenden Daten in den Details überprüfen. Teilnehmen?</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="470"/>
+        <location filename="../src/app/app.cpp" line="477"/>
         <source>Changing the frontend requires a restart. Do you want to restart Albert?</source>
         <translation>Das Ändern der Benutzeroberfläche erfordert einen Neustart. Möchten Sie Albert neu starten?</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="373"/>
+        <location filename="../src/app/app.cpp" line="380"/>
         <source>This is the first time you&apos;ve launched Albert. Albert is plugin based. You have to enable some plugins you want to use.</source>
         <translation>Dies ist das erste Mal, dass Sie Albert gestartet haben. Albert basiert auf Plugins. Sie müssen Plugins aktivieren, die Sie verwenden möchten.</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="382"/>
+        <location filename="../src/app/app.cpp" line="389"/>
         <source>You are now using Albert %1. The major version changed. Some parts of the API might have changed. Check the &lt;a href=&quot;https://albertlauncher.github.io/news/&quot;&gt;news&lt;/a&gt;.</source>
         <translation>Sie verwenden jetzt Albert %1. Die Hauptversion wurde geändert. Einige Teile der API könnten sich geändert haben. Überprüfen Sie die &lt;a href=&apos;https://albertlauncher.github.io/news/&apos;&gt;Neuigkeiten&lt;/a&gt;.</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="597"/>
+        <location filename="../src/app/app.cpp" line="609"/>
         <source>Set the plugin dirs to use. Comma separated.</source>
         <translation>Legen Sie die zu verwendenden Plugin-Verzeichnisse fest. Kommagetrennt.</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="598"/>
+        <location filename="../src/app/app.cpp" line="610"/>
         <source>directories</source>
         <translation>Verzeichnisse</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="607"/>
+        <location filename="../src/app/app.cpp" line="619"/>
         <source>RPC command to send to the running instance.</source>
         <translation>RPC-Befehl, der an die laufende Instanz gesendet werden soll.</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="608"/>
+        <location filename="../src/app/app.cpp" line="620"/>
         <source>[command [params...]]</source>
         <translation>[Befehl [Parameter…]]</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="600"/>
+        <location filename="../src/app/app.cpp" line="612"/>
         <source>Print report and quit.</source>
         <translation>Bericht drucken und beenden.</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="602"/>
+        <location filename="../src/app/app.cpp" line="614"/>
         <source>Do not load enabled plugins.</source>
         <translation>Aktivierte Plugins nicht laden.</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="606"/>
+        <location filename="../src/app/app.cpp" line="618"/>
         <source>command</source>
         <translation>Befehl</translation>
     </message>
     <message>
-        <location filename="../src/app/app.cpp" line="611"/>
+        <location filename="../src/app/app.cpp" line="623"/>
         <source>Launch Albert or control a running instance.</source>
         <translation>Albert starten oder eine laufende Instanz steuern.</translation>
     </message>
@@ -242,34 +242,16 @@
 <context>
     <name>PluginConfigQueryHandler</name>
     <message>
-        <location filename="../src/app/pluginconfigqueryhandler.cpp" line="24"/>
-        <source>Plugin config</source>
-        <translation></translation>
-    </message>
-    <message>
-        <location filename="../src/app/pluginconfigqueryhandler.cpp" line="27"/>
-        <source>Quick access to plugin settings</source>
-        <translation></translation>
-    </message>
-    <message>
-        <location filename="../src/app/pluginconfigqueryhandler.cpp" line="36"/>
         <source>Enabled</source>
-        <translation>Aktiviert</translation>
+        <translation type="vanished">Aktiviert</translation>
     </message>
     <message>
-        <location filename="../src/app/pluginconfigqueryhandler.cpp" line="37"/>
         <source>Disabled</source>
-        <translation>Deaktiviert</translation>
+        <translation type="vanished">Deaktiviert</translation>
     </message>
     <message>
-        <location filename="../src/app/pluginconfigqueryhandler.cpp" line="38"/>
         <source>Toggle</source>
-        <translation>Umschalten</translation>
-    </message>
-    <message>
-        <location filename="../src/app/pluginconfigqueryhandler.cpp" line="39"/>
-        <source>Property of the plugin &apos;%1&apos; [%2]</source>
-        <translation></translation>
+        <translation type="vanished">Umschalten</translation>
     </message>
 </context>
 <context>
@@ -650,32 +632,33 @@ Empfohlen wird ein Wert dazwischen, sodass die Ergebnisse, die Sie häufig verwe
         <translation>Danksagungen:</translation>
     </message>
     <message>
-        <location filename="../src/settings/settingswindow.cpp" line="69"/>
+        <location filename="../src/settings/settingswindow.cpp" line="75"/>
         <source>&amp;Window</source>
         <translation>&amp;Fenster</translation>
     </message>
     <message>
-        <location filename="../src/settings/settingswindow.cpp" line="70"/>
+        <location filename="../src/settings/settingswindow.cpp" line="76"/>
         <source>&amp;Plugins</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../src/settings/settingswindow.cpp" line="71"/>
+        <location filename="../src/settings/settingswindow.cpp" line="77"/>
         <source>&amp;Query</source>
         <translation>&amp;Abfrage</translation>
     </message>
     <message>
-        <location filename="../src/settings/settingswindow.cpp" line="87"/>
+        <location filename="../src/settings/settingswindow.cpp" line="93"/>
+        <location filename="../src/settings/settingswindow.cpp" line="108"/>
         <source>Not set</source>
         <translation>Nicht festgelegt</translation>
     </message>
     <message>
-        <location filename="../src/settings/settingswindow.cpp" line="102"/>
+        <location filename="../src/settings/settingswindow.cpp" line="116"/>
         <source>Not supported</source>
         <translation>Nicht unterstützt</translation>
     </message>
     <message>
-        <location filename="../src/settings/settingswindow.cpp" line="143"/>
+        <location filename="../src/settings/settingswindow.cpp" line="157"/>
         <source>Report missing terminals &lt;a href=&quot;%1&quot;&gt;here&lt;/a&gt;.</source>
         <translation>Melde fehlende Terminals &lt;a href=&quot;%1&quot;&gt;hier&lt;/a&gt;.</translation>
     </message>
@@ -706,6 +689,14 @@ Empfohlen wird ein Wert dazwischen, sodass die Ergebnisse, die Sie häufig verwe
         <location filename="../src/app/terminalprovider.cpp" line="235"/>
         <source>Failed to run command. No terminal available.</source>
         <translation>Befehl konnte nicht ausgeführt werden. Kein Terminal verfügbar.</translation>
+    </message>
+</context>
+<context>
+    <name>TriggersQueryHandler</name>
+    <message>
+        <location filename="../src/app/triggersqueryhandler.cpp" line="23"/>
+        <source>Trigger completion items.</source>
+        <translation>Elemente zur Kürzelvervollständigung.</translation>
     </message>
 </context>
 </TS>
