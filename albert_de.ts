@@ -28,10 +28,6 @@
         <translation>Beenden</translation>
     </message>
     <message>
-        <source>Albert collects anonymous data to enhance user experience. You can review the data to be sent in the details. Opt in?</source>
-        <translation>Albert sammelt anonyme Daten, um die Benutzererfahrung zu verbessern. Du kannst die zu sendenden Daten in den Details überprüfen. Teilnehmen?</translation>
-    </message>
-    <message>
         <source>Changing the frontend requires a restart. Do you want to restart Albert?</source>
         <translation>Das Ändern der Benutzeroberfläche erfordert einen Neustart. Möchten Sie Albert neu starten?</translation>
     </message>
@@ -64,16 +60,16 @@
         <translation>Bericht drucken und beenden.</translation>
     </message>
     <message>
-        <source>Do not load enabled plugins.</source>
-        <translation>Aktivierte Plugins nicht laden.</translation>
-    </message>
-    <message>
         <source>command</source>
         <translation>Befehl</translation>
     </message>
     <message>
         <source>Launch Albert or control a running instance.</source>
         <translation>Albert starten oder eine laufende Instanz steuern.</translation>
+    </message>
+    <message>
+        <source>Do not implicitly load enabled plugins.</source>
+        <translation>Aktivierte Plugins nicht implizit laden.</translation>
     </message>
 </context>
 <context>
@@ -190,21 +186,6 @@
     </message>
 </context>
 <context>
-    <name>PluginConfigQueryHandler</name>
-    <message>
-        <source>Enabled</source>
-        <translation type="vanished">Aktiviert</translation>
-    </message>
-    <message>
-        <source>Disabled</source>
-        <translation type="vanished">Deaktiviert</translation>
-    </message>
-    <message>
-        <source>Toggle</source>
-        <translation type="vanished">Umschalten</translation>
-    </message>
-</context>
-<context>
     <name>PluginQueryHandler</name>
     <message>
         <source>Loaded</source>
@@ -293,11 +274,7 @@
     </message>
 </context>
 <context>
-    <name>PluginsWidget</name>
-    <message>
-        <source>Select a plugin</source>
-        <translation>Wähle ein Pugin aus</translation>
-    </message>
+    <name>PluginWidget</name>
     <message>
         <source>Credits: %1</source>
         <translation>Danksagungen: %1</translation>
@@ -342,6 +319,33 @@
     <message>
         <source>%1, Interface: %2</source>
         <translation>%1, Schnittstelle: %2</translation>
+    </message>
+</context>
+<context>
+    <name>PluginsWidget</name>
+    <message>
+        <source>Select a plugin</source>
+        <translation>Wähle ein Pugin aus</translation>
+    </message>
+    <message>
+        <source>Disable</source>
+        <translation>Deaktivieren</translation>
+    </message>
+    <message>
+        <source>Enable</source>
+        <translation>Aktivieren</translation>
+    </message>
+    <message>
+        <source>Unload</source>
+        <translation>Entladen</translation>
+    </message>
+    <message>
+        <source>Load</source>
+        <translation>Laden</translation>
+    </message>
+    <message>
+        <source>Enabled first</source>
+        <translation>Aktivierte zuerst</translation>
     </message>
 </context>
 <context>
@@ -530,10 +534,6 @@ Empfohlen wird ein Wert dazwischen, sodass die Ergebnisse, die Sie häufig verwe
         <translation>Nicht unterstützt</translation>
     </message>
     <message>
-        <source>Report missing terminals &lt;a href=&quot;%1&quot;&gt;here&lt;/a&gt;.</source>
-        <translation type="vanished">Melde fehlende Terminals &lt;a href=&quot;%1&quot;&gt;hier&lt;/a&gt;.</translation>
-    </message>
-    <message>
         <source>Hotkey</source>
         <translation>Tastenkürzel</translation>
     </message>
@@ -555,10 +555,10 @@ Empfohlen wird ein Wert dazwischen, sodass die Ergebnisse, die Sie häufig verwe
     </message>
 </context>
 <context>
-    <name>Terminals</name>
+    <name>Telemetry</name>
     <message>
-        <source>Failed to run command. No terminal available.</source>
-        <translation type="vanished">Befehl konnte nicht ausgeführt werden. Kein Terminal verfügbar.</translation>
+        <source>Telemetry helps improving the user experience by collecing anonymous data. You can review the telemetry data to be sent in the settings. Do you want to enable telemetry? This configuration be changed at any time in the settings.</source>
+        <translation>Telemetrie hilft die Benutzererfahrung zu verbessern, indem anonyme Daten gesammelt werden. Sie können die zu sendenden Telemetriedaten in den Einstellungen einsehen. Möchten Sie die Telemetrie aktivieren? Diese Konfiguration kann jederzeit in den Einstellungen geändert werden.</translation>
     </message>
 </context>
 <context>

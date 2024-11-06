@@ -28,10 +28,6 @@
         <translation></translation>
     </message>
     <message>
-        <source>Albert collects anonymous data to enhance user experience. You can review the data to be sent in the details. Opt in?</source>
-        <translation></translation>
-    </message>
-    <message>
         <source>Changing the frontend requires a restart. Do you want to restart Albert?</source>
         <translation></translation>
     </message>
@@ -64,15 +60,15 @@
         <translation></translation>
     </message>
     <message>
-        <source>Do not load enabled plugins.</source>
-        <translation></translation>
-    </message>
-    <message>
         <source>command</source>
         <translation></translation>
     </message>
     <message>
         <source>Launch Albert or control a running instance.</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Do not implicitly load enabled plugins.</source>
         <translation></translation>
     </message>
 </context>
@@ -278,11 +274,7 @@
     </message>
 </context>
 <context>
-    <name>PluginsWidget</name>
-    <message>
-        <source>Select a plugin</source>
-        <translation></translation>
-    </message>
+    <name>PluginWidget</name>
     <message>
         <source>Credits: %1</source>
         <translation></translation>
@@ -291,14 +283,14 @@
         <source>Required executables: %1</source>
         <translation>
             <numerusform>Required executable: %1</numerusform>
-            <numerusform></numerusform>
+            <numerusform>Required executables: %1</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>Required libraries: %1</source>
         <translation>
             <numerusform>Required library: %1</numerusform>
-            <numerusform></numerusform>
+            <numerusform>Required libraries: %1</numerusform>
         </translation>
     </message>
     <message>
@@ -326,6 +318,33 @@
     </message>
     <message>
         <source>%1, Interface: %2</source>
+        <translation></translation>
+    </message>
+</context>
+<context>
+    <name>PluginsWidget</name>
+    <message>
+        <source>Select a plugin</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Disable</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Enable</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Unload</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Load</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Enabled first</source>
         <translation></translation>
     </message>
 </context>
@@ -529,6 +548,13 @@ Recommended is a value in between, such that the results you use often are prefe
     </message>
     <message>
         <source>Written in C++, powered by [Qt](aboutQt).</source>
+        <translation></translation>
+    </message>
+</context>
+<context>
+    <name>Telemetry</name>
+    <message>
+        <source>Telemetry helps improving the user experience by collecing anonymous data. You can review the telemetry data to be sent in the settings. Do you want to enable telemetry? This configuration be changed at any time in the settings.</source>
         <translation></translation>
     </message>
 </context>
