@@ -573,7 +573,7 @@ Recommended is a value in between, such that the results you use often are prefe
 <context>
     <name>Telemetry</name>
     <message>
-        <source>Telemetry helps improving the user experience by collecing anonymous data. You can review the telemetry data to be sent in the settings. Do you want to enable telemetry? This configuration be changed at any time in the settings.</source>
+        <source>Telemetry helps improving the user experience by collecing anonymous data. You can review the telemetry data to be sent in the settings. Do you want to enable telemetry? This configuration can be changed at any time in the settings.</source>
         <translation></translation>
     </message>
 </context>

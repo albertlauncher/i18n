@@ -577,7 +577,7 @@ Empfohlen wird ein Wert dazwischen, sodass die Ergebnisse, die Sie häufig verwe
 <context>
     <name>Telemetry</name>
     <message>
-        <source>Telemetry helps improving the user experience by collecing anonymous data. You can review the telemetry data to be sent in the settings. Do you want to enable telemetry? This configuration be changed at any time in the settings.</source>
+        <source>Telemetry helps improving the user experience by collecing anonymous data. You can review the telemetry data to be sent in the settings. Do you want to enable telemetry? This configuration can be changed at any time in the settings.</source>
         <translation>Telemetrie hilft die Benutzererfahrung zu verbessern, indem anonyme Daten gesammelt werden. Sie können die zu sendenden Telemetriedaten in den Einstellungen einsehen. Möchten Sie die Telemetrie aktivieren? Diese Konfiguration kann jederzeit in den Einstellungen geändert werden.</translation>
     </message>
 </context>
