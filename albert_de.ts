@@ -132,6 +132,17 @@
     </message>
 </context>
 <context>
+    <name>Dependency</name>
+    <message>
+        <source>Extension &apos;%1&apos; is available, but it is not of the expected type.</source>
+        <translation>Erweiterung &apos;%1&apos; ist verfügbar, aber sie ist nicht vom erwarteten Typ.</translation>
+    </message>
+    <message>
+        <source>The required extension &apos;%1&apos; is not available.</source>
+        <translation>Die benötigte Erweiterung &apos;%1&apos; ist nicht verfügbar.</translation>
+    </message>
+</context>
+<context>
     <name>FallbacksModel</name>
     <message>
         <source>Name</source>
@@ -167,10 +178,6 @@
     <message>
         <source>Loading…</source>
         <translation>Lade…</translation>
-    </message>
-    <message>
-        <source>Root extension registration failed: &apos;%1&apos;</source>
-        <translation>Die Registrierung der Haupterweiterung ist fehlgeschlagen: &apos;%1&apos;</translation>
     </message>
     <message>
         <source>Load: %1 ms, Instanciate: %2 ms</source>
@@ -272,6 +279,10 @@
         <source>Cyclic or missing dependencies detected:</source>
         <translation>Zyklische oder fehlende Abhängigkeiten entdeckt:</translation>
     </message>
+    <message>
+        <source>Check the log for more information.</source>
+        <translation>Überprüfen Sie das Protokoll für weitere Informationen.</translation>
+    </message>
 </context>
 <context>
     <name>PluginWidget</name>
@@ -324,10 +335,6 @@
 <context>
     <name>PluginsWidget</name>
     <message>
-        <source>Select a plugin</source>
-        <translation>Wähle ein Pugin aus</translation>
-    </message>
-    <message>
         <source>Disable</source>
         <translation>Deaktivieren</translation>
     </message>
@@ -347,16 +354,21 @@
         <source>Enabled first</source>
         <translation>Aktivierte zuerst</translation>
     </message>
+    <message>
+        <source>&lt;p&gt;Plugins are a community effort,&lt;br&gt;built by awesome people like you.&lt;/p&gt;&lt;p&gt;💡 &lt;a href=&apos;https://albertlauncher.github.io/gettingstarted/extension/&apos;&gt;Learn how to build plugins&lt;/a&gt;&lt;/p&gt;&lt;br&gt;</source>
+        <translation>&lt;p&gt;Plugins sind eine Gemeinschaftsleistung,&lt;br&gt;entwickelt von großartigen Menschen wie dir.&lt;/p&gt;
+&lt;p&gt;💡 &lt;a href=&apos;https://albertlauncher.github.io/gettingstarted/extension/&apos;&gt;Erfahre, wie man Plugins erstellt&lt;/a&gt;&lt;/p&gt;&lt;br&gt;</translation>
+    </message>
 </context>
 <context>
-    <name>QHotKeyDialog</name>
+    <name>QHotkey</name>
     <message>
-        <source>Set hotkey</source>
-        <translation>Tastenkürzel festlegen</translation>
+        <source>Failed to register %1. Error: %2</source>
+        <translation>Registrierung von %1 fehlgeschlagen. Fehler: %2</translation>
     </message>
     <message>
-        <source>Press a key combination</source>
-        <translation>Drücke ein Tastenlkürzel</translation>
+        <source>Failed to unregister %1. Error: %2</source>
+        <translation>Deregistrierung von %1 fehlgeschlagen. Fehler: %2</translation>
     </message>
 </context>
 <context>
@@ -553,6 +565,14 @@ Empfohlen wird ein Wert dazwischen, sodass die Ergebnisse, die Sie häufig verwe
         <source>Written in C++, powered by [Qt](aboutQt).</source>
         <translation>Geschrieben in C++, unterstützt durch [Qt](aboutQt).</translation>
     </message>
+    <message>
+        <source>Set hotkey</source>
+        <translation>Tastenkürzel festlegen</translation>
+    </message>
+    <message>
+        <source>Press a key combination</source>
+        <translation>Drücke ein Tastenkürzel</translation>
+    </message>
 </context>
 <context>
     <name>Telemetry</name>
@@ -566,6 +586,13 @@ Empfohlen wird ein Wert dazwischen, sodass die Ergebnisse, die Sie häufig verwe
     <message>
         <source>Trigger completion items.</source>
         <translation>Elemente zur Kürzelvervollständigung.</translation>
+    </message>
+</context>
+<context>
+    <name>albert</name>
+    <message>
+        <source>Failed creating directory %1: %2</source>
+        <translation>Verzeichnis %1 konnte nicht erstellt werden: %2</translation>
     </message>
 </context>
 </TS>
