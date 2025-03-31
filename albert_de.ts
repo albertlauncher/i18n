@@ -130,6 +130,10 @@
         <source>Control the app</source>
         <translation>Kontrolliere die App</translation>
     </message>
+    <message>
+        <source>Open in terminal</source>
+        <translation>In Terminal öffnen</translation>
+    </message>
 </context>
 <context>
     <name>Dependency</name>
@@ -586,6 +590,10 @@ Empfohlen wird ein Wert dazwischen, sodass die Ergebnisse, die Sie häufig verwe
     <message>
         <source>Trigger completion items.</source>
         <translation>Elemente zur Kürzelvervollständigung.</translation>
+    </message>
+    <message>
+        <source>Set input text</source>
+        <translation>Eingabetext setzen</translation>
     </message>
 </context>
 <context>

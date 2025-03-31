@@ -130,6 +130,10 @@
         <source>Control the app</source>
         <translation></translation>
     </message>
+    <message>
+        <source>Open in terminal</source>
+        <translation></translation>
+    </message>
 </context>
 <context>
     <name>Dependency</name>
@@ -581,6 +585,10 @@ Recommended is a value in between, such that the results you use often are prefe
     <name>TriggersQueryHandler</name>
     <message>
         <source>Trigger completion items.</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Set input text</source>
         <translation></translation>
     </message>
 </context>
