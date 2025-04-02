@@ -462,7 +462,7 @@
     </message>
     <message>
         <source>Sort perference</source>
-        <translation>Sortierpräferenz</translation>
+        <translation type="vanished">Sortierpräferenz</translation>
     </message>
     <message>
         <source>Prefer most frequently used results.</source>
@@ -501,6 +501,10 @@ Empfohlen wird ein Wert dazwischen, sodass die Ergebnisse, die Sie häufig verwe
     <message>
         <source>Query handlers</source>
         <translation>Abfragebehandler</translation>
+    </message>
+    <message>
+        <source>Sort preference</source>
+        <translation type="unfinished">Sortierpräferenz</translation>
     </message>
 </context>
 <context>

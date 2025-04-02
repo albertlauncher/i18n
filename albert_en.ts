@@ -460,10 +460,6 @@
         <translation></translation>
     </message>
     <message>
-        <source>Sort perference</source>
-        <translation></translation>
-    </message>
-    <message>
         <source>Prefer most frequently used results.</source>
         <translation></translation>
     </message>
@@ -496,6 +492,10 @@ Recommended is a value in between, such that the results you use often are prefe
     </message>
     <message>
         <source>Query handlers</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Sort preference</source>
         <translation></translation>
     </message>
 </context>
