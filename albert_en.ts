@@ -158,6 +158,38 @@
     </message>
 </context>
 <context>
+    <name>OAuthConfigWidget</name>
+    <message>
+        <source>Client identifier</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Client secret</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Authorization</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Awaiting authorization…</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Not authorized.</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Granted</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Request</source>
+        <comment>action</comment>
+        <translation></translation>
+    </message>
+</context>
+<context>
     <name>Plugin</name>
     <message>
         <source>Invalid plugin id. Use [a-z0-9_].</source>

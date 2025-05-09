@@ -158,6 +158,38 @@
     </message>
 </context>
 <context>
+    <name>OAuthConfigWidget</name>
+    <message>
+        <source>Client identifier</source>
+        <translation>Client-Identifikator</translation>
+    </message>
+    <message>
+        <source>Client secret</source>
+        <translation>Client-Geheimnis</translation>
+    </message>
+    <message>
+        <source>Authorization</source>
+        <translation>Autorisierung</translation>
+    </message>
+    <message>
+        <source>Awaiting authorization…</source>
+        <translation>Warte auf Autorisierung…</translation>
+    </message>
+    <message>
+        <source>Not authorized.</source>
+        <translation>Nicht autorisiert.</translation>
+    </message>
+    <message>
+        <source>Granted</source>
+        <translation>Gewährt</translation>
+    </message>
+    <message>
+        <source>Request</source>
+        <comment>action</comment>
+        <translation>Anfragen</translation>
+    </message>
+</context>
+<context>
     <name>Plugin</name>
     <message>
         <source>Invalid plugin id. Use [a-z0-9_].</source>
@@ -504,7 +536,7 @@ Empfohlen wird ein Wert dazwischen, sodass die Ergebnisse, die Sie häufig verwe
     </message>
     <message>
         <source>Sort preference</source>
-        <translation type="unfinished">Sortierpräferenz</translation>
+        <translation>Sortierpräferenz</translation>
     </message>
 </context>
 <context>
