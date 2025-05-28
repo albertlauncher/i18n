@@ -430,6 +430,17 @@
     </message>
 </context>
 <context>
+    <name>QueryExecution</name>
+    <message>
+        <source>Exception in action</source>
+        <translation>Ein Fehler ist aufgetreten</translation>
+    </message>
+    <message>
+        <source>Unknown exception in action</source>
+        <translation>Ein unbekannter Fehler ist aufgetreten</translation>
+    </message>
+</context>
+<context>
     <name>QueryHandlerModel</name>
     <message>
         <source>This extension does not allow trigger remapping.</source>
@@ -618,7 +629,15 @@ Empfohlen wird ein Wert dazwischen, sodass die Ergebnisse, die Sie häufig verwe
     <name>Telemetry</name>
     <message>
         <source>Telemetry helps improving the user experience by collecing anonymous data. You can review the telemetry data to be sent in the settings. Do you want to enable telemetry? This configuration can be changed at any time in the settings.</source>
-        <translation>Telemetrie hilft die Benutzererfahrung zu verbessern, indem anonyme Daten gesammelt werden. Sie können die zu sendenden Telemetriedaten in den Einstellungen einsehen. Möchten Sie die Telemetrie aktivieren? Diese Konfiguration kann jederzeit in den Einstellungen geändert werden.</translation>
+        <translation type="vanished">Telemetrie hilft die Benutzererfahrung zu verbessern, indem anonyme Daten gesammelt werden. Sie können die zu sendenden Telemetriedaten in den Einstellungen einsehen. Möchten Sie die Telemetrie aktivieren? Diese Konfiguration kann jederzeit in den Einstellungen geändert werden.</translation>
+    </message>
+    <message>
+        <source>Albert collects data to improve the user experience. Do you want to help to improve Albert by sending optional telemetry data?</source>
+        <translation>Albert sammelt Daten zur Verbesserung der Benutzerfreundlichkeit. Möchten Sie Albert durch das Senden von optionalen Telemetriedaten unterstützen?</translation>
+    </message>
+    <message>
+        <source>No tracking, profiling, sharing or commercial use. The transmitted data is non-personal. You can change this configuration anytime in the settings. See the &lt;a href=&apos;https://albertlauncher.github.io/privacy/&apos;&gt;privacy notice&lt;/a&gt; for details.</source>
+        <translation>Kein Tracking, Profiling, Teilen oder kommerzielle Nutzung. Die übermittelten Daten sind nicht personenbezogen. Diese Konfiguration kann jederzeit in den Einstellungen geändert werden. Weitere Details finden Sie in der &lt;a href=&apos;https://albertlauncher.github.io/privacy/&apos;&gt;Datenschutzerklärung&lt;/a&gt;.</translation>
     </message>
 </context>
 <context>

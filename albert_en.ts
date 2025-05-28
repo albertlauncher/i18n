@@ -429,6 +429,17 @@
     </message>
 </context>
 <context>
+    <name>QueryExecution</name>
+    <message>
+        <source>Exception in action</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Unknown exception in action</source>
+        <translation></translation>
+    </message>
+</context>
+<context>
     <name>QueryHandlerModel</name>
     <message>
         <source>This extension does not allow trigger remapping.</source>
@@ -582,10 +593,6 @@ Recommended is a value in between, such that the results you use often are prefe
         <translation></translation>
     </message>
     <message>
-        <source>Telemetry</source>
-        <translation></translation>
-    </message>
-    <message>
         <source>Support Albert with a [donation](%1)&lt;br/&gt;or by becoming a [GitHub sponsor](%2).</source>
         <translation></translation>
     </message>
@@ -605,11 +612,19 @@ Recommended is a value in between, such that the results you use often are prefe
         <source>Press a key combination</source>
         <translation></translation>
     </message>
+    <message>
+        <source>Telemetry</source>
+        <translation></translation>
+    </message>
 </context>
 <context>
     <name>Telemetry</name>
     <message>
-        <source>Telemetry helps improving the user experience by collecing anonymous data. You can review the telemetry data to be sent in the settings. Do you want to enable telemetry? This configuration can be changed at any time in the settings.</source>
+        <source>Albert collects data to improve the user experience. Do you want to help to improve Albert by sending optional telemetry data?</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>No tracking, profiling, sharing or commercial use. The transmitted data is non-personal. You can change this configuration anytime in the settings. See the &lt;a href=&apos;https://albertlauncher.github.io/privacy/&apos;&gt;privacy notice&lt;/a&gt; for details.</source>
         <translation></translation>
     </message>
 </context>
