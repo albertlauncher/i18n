@@ -73,69 +73,6 @@
     </message>
 </context>
 <context>
-    <name>AppQueryHandler</name>
-    <message>
-        <source>Settings</source>
-        <translation>Einstellungen</translation>
-    </message>
-    <message>
-        <source>Albert settings</source>
-        <translation>Albert Einstellungen</translation>
-    </message>
-    <message>
-        <source>Open</source>
-        <translation>Öffnen</translation>
-    </message>
-    <message>
-        <source>Quit</source>
-        <translation>Beenden</translation>
-    </message>
-    <message>
-        <source>Quit Albert</source>
-        <translation>Albert beenden</translation>
-    </message>
-    <message>
-        <source>Restart</source>
-        <translation>Neu starten</translation>
-    </message>
-    <message>
-        <source>Restart Albert</source>
-        <translation>Albert neu starten</translation>
-    </message>
-    <message>
-        <source>Cache location</source>
-        <translation>Cache Verzeichnis</translation>
-    </message>
-    <message>
-        <source>Albert cache location</source>
-        <translation>Albert Cacheverzeichnis</translation>
-    </message>
-    <message>
-        <source>Config location</source>
-        <translation>Konfigurationsverzeichnis</translation>
-    </message>
-    <message>
-        <source>Albert config location</source>
-        <translation>Albert Konfigurationsverzeichnis</translation>
-    </message>
-    <message>
-        <source>Data location</source>
-        <translation>Datenverzeichnis</translation>
-    </message>
-    <message>
-        <source>Albert data location</source>
-        <translation>Albert Datenverzeichnis</translation>
-    </message>
-    <message>
-        <source>Control the app</source>
-        <translation>Kontrolliere die App</translation>
-    </message>
-    <message>
-        <source>Open in terminal</source>
-        <translation>In Terminal öffnen</translation>
-    </message>
-</context>
-<context>
     <name>Dependency</name>
     <message>
         <source>Extension &apos;%1&apos; is available, but it is not of the expected type.</source>

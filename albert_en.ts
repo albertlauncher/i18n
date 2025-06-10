@@ -73,69 +73,6 @@
     </message>
 </context>
 <context>
-    <name>AppQueryHandler</name>
-    <message>
-        <source>Settings</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Albert settings</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Open</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Quit</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Quit Albert</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Restart</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Restart Albert</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Cache location</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Albert cache location</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Config location</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Albert config location</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Data location</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Albert data location</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Control the app</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Open in terminal</source>
-        <translation></translation>
-    </message>
-</context>
-<context>
     <name>Dependency</name>
     <message>
         <source>Extension &apos;%1&apos; is available, but it is not of the expected type.</source>
