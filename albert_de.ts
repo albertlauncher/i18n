@@ -127,45 +127,6 @@
     </message>
 </context>
 <context>
-    <name>Plugin</name>
-    <message>
-        <source>Invalid plugin id. Use [a-z0-9_].</source>
-        <translation>Ungültige Pluginkennung. Nutzen Sie [a-z0-9_].</translation>
-    </message>
-    <message>
-        <source>Plugin is invalid.</source>
-        <translation>Plugin ist ungültig.</translation>
-    </message>
-    <message>
-        <source>Plugin is unloaded.</source>
-        <translation>Plugin ist nicht geladen.</translation>
-    </message>
-    <message>
-        <source>Plugin is loaded.</source>
-        <translation>Plugin ist geladen.</translation>
-    </message>
-    <message>
-        <source>Plugin is busy: %1</source>
-        <translation>Plugin ist beschäftigt: %1</translation>
-    </message>
-    <message>
-        <source>Loading…</source>
-        <translation>Lade…</translation>
-    </message>
-    <message>
-        <source>Load: %1 ms, Instanciate: %2 ms</source>
-        <translation>Laden: %1 ms, Instanziieren: %2 ms</translation>
-    </message>
-    <message>
-        <source>Unknown exception occurred.</source>
-        <translation>Ein unbekannter Fehler ist aufgetreten.</translation>
-    </message>
-    <message>
-        <source>Unloading…</source>
-        <translation>Entlade…</translation>
-    </message>
-</context>
-<context>
     <name>PluginQueryHandler</name>
     <message>
         <source>Loaded</source>
@@ -204,18 +165,6 @@
         <translation>Aktivieren</translation>
     </message>
     <message>
-        <source>Unload</source>
-        <translation>Entladen</translation>
-    </message>
-    <message>
-        <source>Reload</source>
-        <translation>Neu laden</translation>
-    </message>
-    <message>
-        <source>Load</source>
-        <translation>Laden</translation>
-    </message>
-    <message>
         <source>Plugins</source>
         <translation>Plugins</translation>
     </message>
@@ -227,34 +176,12 @@
 <context>
     <name>PluginRegistry</name>
     <message>
-        <source>Enabling &apos;%1&apos; will also enable the following plugins:</source>
-        <translation>Das Aktivieren von &apos;%1&apos; wird auch die folgenden Plugins aktivieren:</translation>
+        <source>Enabling &apos;%1&apos; will also enable the following plugins</source>
+        <translation>Das Aktivieren von &apos;%1&apos; wird auch die folgenden Plugins aktivieren</translation>
     </message>
     <message>
-        <source>Disabling &apos;%1&apos; will also disable the following plugins:</source>
-        <translation>Das Deaktivieren von &apos;%1&apos; wird auch die folgenden Plugins deaktivieren:</translation>
-    </message>
-    <message numerus="yes">
-        <source>Failed loading plugins</source>
-        <translation>
-            <numerusform>Fehler beim Laden des Plugins</numerusform>
-            <numerusform>Fehler beim Laden der Plugins</numerusform>
-        </translation>
-    </message>
-    <message numerus="yes">
-        <source>Failed unloading plugins</source>
-        <translation>
-            <numerusform>Fehler beim Entladen des Plugins</numerusform>
-            <numerusform>Fehler beim Entladen der Plugins</numerusform>
-        </translation>
-    </message>
-    <message>
-        <source>Cyclic or missing dependencies detected:</source>
-        <translation>Zyklische oder fehlende Abhängigkeiten entdeckt:</translation>
-    </message>
-    <message>
-        <source>Check the log for more information.</source>
-        <translation>Überprüfen Sie das Protokoll für weitere Informationen.</translation>
+        <source>Disabling &apos;%1&apos; will also disable the following plugins</source>
+        <translation>Das Deaktivieren von &apos;%1&apos; wird auch die folgenden Plugins deaktivieren</translation>
     </message>
 </context>
 <context>
@@ -358,6 +285,10 @@
         <source>Incompatible minor version: %1. Supported up to: %2.</source>
         <translation>Inkompatible Minorversion: %1. Unterstützt bis: %2.</translation>
     </message>
+    <message>
+        <source>Loading: %1 ms, Instantiating: %2 ms</source>
+        <translation>Laden: %1 ms, Instanziieren: %2 ms</translation>
+    </message>
 </context>
 <context>
     <name>QtPluginProvider</name>
@@ -439,10 +370,6 @@
     <message>
         <source>Fallback order</source>
         <translation>Fallbackreihenfolge</translation>
-    </message>
-    <message>
-        <source>Sort perference</source>
-        <translation type="vanished">Sortierpräferenz</translation>
     </message>
     <message>
         <source>Prefer most frequently used results.</source>
@@ -564,10 +491,6 @@ Empfohlen wird ein Wert dazwischen, sodass die Ergebnisse, die Sie häufig verwe
 </context>
 <context>
     <name>Telemetry</name>
-    <message>
-        <source>Telemetry helps improving the user experience by collecing anonymous data. You can review the telemetry data to be sent in the settings. Do you want to enable telemetry? This configuration can be changed at any time in the settings.</source>
-        <translation type="vanished">Telemetrie hilft die Benutzererfahrung zu verbessern, indem anonyme Daten gesammelt werden. Sie können die zu sendenden Telemetriedaten in den Einstellungen einsehen. Möchten Sie die Telemetrie aktivieren? Diese Konfiguration kann jederzeit in den Einstellungen geändert werden.</translation>
-    </message>
     <message>
         <source>Albert collects data to improve the user experience. Do you want to help to improve Albert by sending optional telemetry data?</source>
         <translation>Albert sammelt Daten zur Verbesserung der Benutzerfreundlichkeit. Möchten Sie Albert durch das Senden von optionalen Telemetriedaten unterstützen?</translation>

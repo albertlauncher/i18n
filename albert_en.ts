@@ -127,45 +127,6 @@
     </message>
 </context>
 <context>
-    <name>Plugin</name>
-    <message>
-        <source>Invalid plugin id. Use [a-z0-9_].</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Plugin is invalid.</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Plugin is unloaded.</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Plugin is loaded.</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Plugin is busy: %1</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Loading…</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Load: %1 ms, Instanciate: %2 ms</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Unknown exception occurred.</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Unloading…</source>
-        <translation></translation>
-    </message>
-</context>
-<context>
     <name>PluginQueryHandler</name>
     <message>
         <source>Loaded</source>
@@ -204,18 +165,6 @@
         <translation></translation>
     </message>
     <message>
-        <source>Unload</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Reload</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Load</source>
-        <translation></translation>
-    </message>
-    <message>
         <source>Plugins</source>
         <translation></translation>
     </message>
@@ -226,34 +175,26 @@
 </context>
 <context>
     <name>PluginRegistry</name>
-    <message>
-        <source>Enabling &apos;%1&apos; will also enable the following plugins:</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Disabling &apos;%1&apos; will also disable the following plugins:</source>
-        <translation></translation>
-    </message>
     <message numerus="yes">
         <source>Failed loading plugins</source>
-        <translation>
+        <translation type="vanished">
             <numerusform>Failed loading plugin</numerusform>
             <numerusform>Failed loading plugins</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>Failed unloading plugins</source>
-        <translation>
+        <translation type="vanished">
             <numerusform>Failed unloading plugin</numerusform>
             <numerusform>Failed unloading plugins</numerusform>
         </translation>
     </message>
     <message>
-        <source>Cyclic or missing dependencies detected:</source>
+        <source>Enabling &apos;%1&apos; will also enable the following plugins</source>
         <translation></translation>
     </message>
     <message>
-        <source>Check the log for more information.</source>
+        <source>Disabling &apos;%1&apos; will also disable the following plugins</source>
         <translation></translation>
     </message>
 </context>
@@ -355,6 +296,10 @@
     </message>
     <message>
         <source>Incompatible minor version: %1. Supported up to: %2.</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Loading: %1 ms, Instantiating: %2 ms</source>
         <translation></translation>
     </message>
 </context>
