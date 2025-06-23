@@ -197,6 +197,18 @@
         <source>Disabling &apos;%1&apos; will also disable the following plugins</source>
         <translation></translation>
     </message>
+    <message>
+        <source>Failed to load plugin</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Failed to unload plugin</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Other plugins are currently being loaded.</source>
+        <translation></translation>
+    </message>
 </context>
 <context>
     <name>PluginWidget</name>

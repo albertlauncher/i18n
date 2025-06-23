@@ -183,6 +183,18 @@
         <source>Disabling &apos;%1&apos; will also disable the following plugins</source>
         <translation>Das Deaktivieren von &apos;%1&apos; wird auch die folgenden Plugins deaktivieren</translation>
     </message>
+    <message>
+        <source>Failed to load plugin</source>
+        <translation>Laden des Plugins fehlgeschlagen</translation>
+    </message>
+    <message>
+        <source>Failed to unload plugin</source>
+        <translation>Entladen des Plugins fehlgeschlagen</translation>
+    </message>
+    <message>
+        <source>Other plugins are currently being loaded.</source>
+        <translation>Andere Plugins werden derzeit geladen.</translation>
+    </message>
 </context>
 <context>
     <name>PluginWidget</name>
