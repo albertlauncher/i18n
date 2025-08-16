@@ -5,6 +5,7 @@
     <name>App</name>
     <message>
         <source>Failed to set the hotkey &apos;%1&apos;</source>
+        <translatorcomment> </translatorcomment>
         <translation></translation>
     </message>
     <message>
@@ -242,20 +243,66 @@
         </translation>
     </message>
     <message>
-        <source>Requires: %1</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Required by: %1</source>
-        <translation></translation>
-    </message>
-    <message>
         <source>Translations: %1</source>
         <translation></translation>
     </message>
     <message>
         <source>%1, Interface: %2</source>
         <translation></translation>
+    </message>
+    <message numerus="yes">
+        <source>Maintainers: %1</source>
+        <translation>
+            <numerusform>Maintainer: %1</numerusform>
+            <numerusform>Maintainers: %1</numerusform>
+        </translation>
+    </message>
+    <message numerus="yes">
+        <source>Author(s): %1</source>
+        <translation type="vanished">
+            <numerusform>Author: %1</numerusform>
+            <numerusform>Authors: %1</numerusform>
+        </translation>
+    </message>
+    <message numerus="yes">
+        <source>Maintainer(s): %1</source>
+        <translation type="vanished">
+            <numerusform>Maintainer: %1</numerusform>
+            <numerusform>Maintainers: %1</numerusform>
+        </translation>
+    </message>
+    <message numerus="yes">
+        <source>Required executable(s): %1</source>
+        <translation type="obsolete">
+            <numerusform>Required executable: %1</numerusform>
+            <numerusform>Required executables: %1</numerusform>
+        </translation>
+    </message>
+    <message numerus="yes">
+        <source>Required librarie(s): %1</source>
+        <translation type="obsolete">
+            <numerusform>Required library: %1</numerusform>
+            <numerusform>Required libraries: %1</numerusform>
+        </translation>
+    </message>
+    <message>
+        <source>Wanted!</source>
+        <extracomment>Placeholder for empty maintainers</extracomment>
+        <translation></translation>
+    </message>
+    <message numerus="yes">
+        <source>Required plugins: %1</source>
+        <translation>
+            <numerusform>Required plugin: %1</numerusform>
+            <numerusform>Required plugins: %1</numerusform>
+        </translation>
+    </message>
+    <message numerus="yes">
+        <source>Required by plugins: %1</source>
+        <translation>
+            <numerusform>Required by plugin: %1</numerusform>
+            <numerusform>Required by plugins: %1</numerusform>
+        </translation>
     </message>
 </context>
 <context>
@@ -525,11 +572,11 @@ Recommended is a value in between, such that the results you use often are prefe
 <context>
     <name>TriggersQueryHandler</name>
     <message>
-        <source>Trigger completion items.</source>
+        <source>Set input text</source>
         <translation></translation>
     </message>
     <message>
-        <source>Set input text</source>
+        <source>Trigger completions</source>
         <translation></translation>
     </message>
 </context>

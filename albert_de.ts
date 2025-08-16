@@ -228,20 +228,38 @@
         </translation>
     </message>
     <message>
-        <source>Requires: %1</source>
-        <translation>Benötigt: %1</translation>
-    </message>
-    <message>
-        <source>Required by: %1</source>
-        <translation>Wird benötigt von: %1</translation>
-    </message>
-    <message>
         <source>Translations: %1</source>
         <translation>Übersetzungen: %1</translation>
     </message>
     <message>
         <source>%1, Interface: %2</source>
         <translation>%1, Schnittstelle: %2</translation>
+    </message>
+    <message numerus="yes">
+        <source>Maintainers: %1</source>
+        <translation>
+            <numerusform>Betreuer: %1</numerusform>
+            <numerusform>Betreuer: %1</numerusform>
+        </translation>
+    </message>
+    <message>
+        <source>Wanted!</source>
+        <extracomment>Placeholder for empty maintainers</extracomment>
+        <translation>Gesucht!</translation>
+    </message>
+    <message numerus="yes">
+        <source>Required plugins: %1</source>
+        <translation>
+            <numerusform>Benötigtes Plugin: %1</numerusform>
+            <numerusform>Benötigte Plugins: %1</numerusform>
+        </translation>
+    </message>
+    <message numerus="yes">
+        <source>Required by plugins: %1</source>
+        <translation>
+            <numerusform>Wird benötigt von Plugin: %1</numerusform>
+            <numerusform>Wird benötigt von Plugins: %1</numerusform>
+        </translation>
     </message>
 </context>
 <context>
@@ -515,12 +533,12 @@ Empfohlen wird ein Wert dazwischen, sodass die Ergebnisse, die Sie häufig verwe
 <context>
     <name>TriggersQueryHandler</name>
     <message>
-        <source>Trigger completion items.</source>
-        <translation>Elemente zur Kürzelvervollständigung.</translation>
-    </message>
-    <message>
         <source>Set input text</source>
         <translation>Eingabetext setzen</translation>
+    </message>
+    <message>
+        <source>Trigger completions</source>
+        <translation>Kürzelvervollständigungen</translation>
     </message>
 </context>
 <context>
