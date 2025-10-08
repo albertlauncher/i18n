@@ -172,6 +172,14 @@
         <source>Manage plugins</source>
         <translation>Plugins verwalten</translation>
     </message>
+    <message>
+        <source>Reload</source>
+        <translation>Neu laden</translation>
+    </message>
+    <message>
+        <source>Load</source>
+        <translation>Laden</translation>
+    </message>
 </context>
 <context>
     <name>PluginRegistry</name>

@@ -173,6 +173,14 @@
         <source>Manage plugins</source>
         <translation></translation>
     </message>
+    <message>
+        <source>Reload</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Load</source>
+        <translation></translation>
+    </message>
 </context>
 <context>
     <name>PluginRegistry</name>
