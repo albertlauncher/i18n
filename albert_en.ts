@@ -549,6 +549,14 @@ Recommended is a value in between, such that the results you use often are prefe
         <source>Telemetry</source>
         <translation></translation>
     </message>
+    <message>
+        <source>Addtional PATH entries</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>For the changes to take effect, Albert has to be restarted. Do you want to restart Albert now?</source>
+        <translation></translation>
+    </message>
 </context>
 <context>
     <name>Telemetry</name>

@@ -510,6 +510,14 @@ Empfohlen wird ein Wert dazwischen, sodass die Ergebnisse, die Sie häufig verwe
         <source>Press a key combination</source>
         <translation>Drücke ein Tastenkürzel</translation>
     </message>
+    <message>
+        <source>Addtional PATH entries</source>
+        <translation>Zusätzliche PATH-Einträge</translation>
+    </message>
+    <message>
+        <source>For the changes to take effect, Albert has to be restarted. Do you want to restart Albert now?</source>
+        <translation>Damit die Änderungen wirksam werden, muss Albert neu gestartet werden. Möchten Sie Albert jetzt neu starten?</translation>
+    </message>
 </context>
 <context>
     <name>Telemetry</name>
