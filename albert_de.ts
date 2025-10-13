@@ -471,10 +471,6 @@ Empfohlen wird ein Wert dazwischen, sodass die Ergebnisse, die Sie häufig verwe
         <translation>Tray-Symbol anzeigen</translation>
     </message>
     <message>
-        <source>Join the community on [Telegram](%1) or [Discord](%2).</source>
-        <translation>Tritt der Community auf [Telegram](%1) oder [Discord](%2) bei.</translation>
-    </message>
-    <message>
         <source>Credits:</source>
         <translation>Danksagungen:</translation>
     </message>
@@ -505,18 +501,6 @@ Empfohlen wird ein Wert dazwischen, sodass die Ergebnisse, die Sie häufig verwe
     <message>
         <source>Telemetry</source>
         <translation>Telemetrie</translation>
-    </message>
-    <message>
-        <source>Support Albert with a [donation](%1)&lt;br/&gt;or by becoming a [GitHub sponsor](%2).</source>
-        <translation>Unterstütze Albert mit einer [Spende](%1)&lt;br/&gt;oder werde [GitHub-Sponsor](%2).</translation>
-    </message>
-    <message>
-        <source>Report bugs on [GitHub](%1).</source>
-        <translation>Melde Fehler auf [GitHub](%1).</translation>
-    </message>
-    <message>
-        <source>Written in C++, powered by [Qt](aboutQt).</source>
-        <translation>Geschrieben in C++, unterstützt durch [Qt](aboutQt).</translation>
     </message>
     <message>
         <source>Set hotkey</source>

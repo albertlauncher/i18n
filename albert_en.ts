@@ -510,10 +510,6 @@ Recommended is a value in between, such that the results you use often are prefe
         <translation></translation>
     </message>
     <message>
-        <source>Join the community on [Telegram](%1) or [Discord](%2).</source>
-        <translation></translation>
-    </message>
-    <message>
         <source>Credits:</source>
         <translation></translation>
     </message>
@@ -539,18 +535,6 @@ Recommended is a value in between, such that the results you use often are prefe
     </message>
     <message>
         <source>Hotkey</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Support Albert with a [donation](%1)&lt;br/&gt;or by becoming a [GitHub sponsor](%2).</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Report bugs on [GitHub](%1).</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Written in C++, powered by [Qt](aboutQt).</source>
         <translation></translation>
     </message>
     <message>
