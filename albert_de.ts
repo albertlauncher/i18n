@@ -2,34 +2,30 @@
 <!DOCTYPE TS>
 <TS version="2.1" language="de_DE">
 <context>
-    <name>App</name>
-    <message>
-        <source>Failed to set the hotkey &apos;%1&apos;</source>
-        <translation>Festlegen des Tastenkürzels &apos;%1&apos; fehlgeschlagen</translation>
-    </message>
+    <name>Application</name>
     <message>
         <source>Show/Hide</source>
-        <translation>Zeigen/Verbergen</translation>
+        <translation type="vanished">Zeigen/Verbergen</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation>Einstellungen</translation>
+        <translation type="vanished">Einstellungen</translation>
     </message>
     <message>
         <source>Open website</source>
-        <translation>Webseite öffnen</translation>
+        <translation type="vanished">Webseite öffnen</translation>
     </message>
     <message>
         <source>Restart</source>
-        <translation>Neu starten</translation>
+        <translation type="vanished">Neu starten</translation>
     </message>
     <message>
         <source>Quit</source>
-        <translation>Beenden</translation>
+        <translation type="vanished">Beenden</translation>
     </message>
     <message>
-        <source>Changing the frontend requires a restart. Do you want to restart Albert?</source>
-        <translation>Das Ändern der Benutzeroberfläche erfordert einen Neustart. Möchten Sie Albert neu starten?</translation>
+        <source>Failed to set the hotkey &apos;%1&apos;</source>
+        <translation>Festlegen des Tastenkürzels &apos;%1&apos; fehlgeschlagen</translation>
     </message>
     <message>
         <source>This is the first time you&apos;ve launched Albert. Albert is plugin based. You have to enable some plugins you want to use.</source>
@@ -40,12 +36,28 @@
         <translation>Sie verwenden jetzt Albert %1. Die Hauptversion wurde geändert. Einige Teile der API könnten sich geändert haben. Überprüfen Sie die &lt;a href=&apos;https://albertlauncher.github.io/news/&apos;&gt;Neuigkeiten&lt;/a&gt;.</translation>
     </message>
     <message>
+        <source>Changing the frontend requires a restart. Do you want to restart Albert?</source>
+        <translation>Das Ändern der Benutzeroberfläche erfordert einen Neustart. Möchten Sie Albert neu starten?</translation>
+    </message>
+    <message>
         <source>Set the plugin dirs to use. Comma separated.</source>
         <translation>Legen Sie die zu verwendenden Plugin-Verzeichnisse fest. Kommagetrennt.</translation>
     </message>
     <message>
         <source>directories</source>
         <translation>Verzeichnisse</translation>
+    </message>
+    <message>
+        <source>Print report and quit.</source>
+        <translation>Bericht drucken und beenden.</translation>
+    </message>
+    <message>
+        <source>Do not implicitly load enabled plugins.</source>
+        <translation>Aktivierte Plugins nicht implizit laden.</translation>
+    </message>
+    <message>
+        <source>command</source>
+        <translation>Befehl</translation>
     </message>
     <message>
         <source>RPC command to send to the running instance.</source>
@@ -56,20 +68,8 @@
         <translation>[Befehl [Parameter…]]</translation>
     </message>
     <message>
-        <source>Print report and quit.</source>
-        <translation>Bericht drucken und beenden.</translation>
-    </message>
-    <message>
-        <source>command</source>
-        <translation>Befehl</translation>
-    </message>
-    <message>
         <source>Launch Albert or control a running instance.</source>
         <translation>Albert starten oder eine laufende Instanz steuern.</translation>
-    </message>
-    <message>
-        <source>Do not implicitly load enabled plugins.</source>
-        <translation>Aktivierte Plugins nicht implizit laden.</translation>
     </message>
 </context>
 <context>
@@ -92,6 +92,13 @@
     <message>
         <source>Description</source>
         <translation>Beschreibung</translation>
+    </message>
+</context>
+<context>
+    <name>GlobalQuery</name>
+    <message>
+        <source>All</source>
+        <translation type="vanished">Alle</translation>
     </message>
 </context>
 <context>
@@ -336,17 +343,6 @@
     </message>
 </context>
 <context>
-    <name>QueryExecution</name>
-    <message>
-        <source>Exception in action</source>
-        <translation>Ein Fehler ist aufgetreten</translation>
-    </message>
-    <message>
-        <source>Unknown exception in action</source>
-        <translation>Ein unbekannter Fehler ist aufgetreten</translation>
-    </message>
-</context>
-<context>
     <name>QueryHandlerModel</name>
     <message>
         <source>This extension does not allow trigger remapping.</source>
@@ -401,6 +397,17 @@
     <message>
         <source>Fuzzy matching.</source>
         <translation>Fehlertoleranter Abgleich.</translation>
+    </message>
+</context>
+<context>
+    <name>QueryResults</name>
+    <message>
+        <source>Exception in action</source>
+        <translation>Ein Fehler ist in &apos;Action&apos; aufgetreten</translation>
+    </message>
+    <message>
+        <source>Unknown exception in action</source>
+        <translation>Ein unbekannter Fehler ist in &apos;Action&apos; aufgetreten</translation>
     </message>
 </context>
 <context>
@@ -520,6 +527,29 @@ Empfohlen wird ein Wert dazwischen, sodass die Ergebnisse, die Sie häufig verwe
     </message>
 </context>
 <context>
+    <name>SystemTrayIcon</name>
+    <message>
+        <source>Show/Hide</source>
+        <translation>Zeigen/Verbergen</translation>
+    </message>
+    <message>
+        <source>Settings</source>
+        <translation>Einstellungen</translation>
+    </message>
+    <message>
+        <source>Open website</source>
+        <translation>Webseite öffnen</translation>
+    </message>
+    <message>
+        <source>Restart</source>
+        <translation>Neu starten</translation>
+    </message>
+    <message>
+        <source>Quit</source>
+        <translation>Beenden</translation>
+    </message>
+</context>
+<context>
     <name>Telemetry</name>
     <message>
         <source>Albert collects data to improve the user experience. Do you want to help to improve Albert by sending optional telemetry data?</source>
@@ -542,10 +572,14 @@ Empfohlen wird ein Wert dazwischen, sodass die Ergebnisse, die Sie häufig verwe
     </message>
 </context>
 <context>
-    <name>albert</name>
+    <name>albert::QueryResults</name>
     <message>
-        <source>Failed creating directory %1: %2</source>
-        <translation>Verzeichnis %1 konnte nicht erstellt werden: %2</translation>
+        <source>Exception in action</source>
+        <translation type="vanished">Ein Fehler ist in &apos;Action&apos; aufgetreten</translation>
+    </message>
+    <message>
+        <source>Unknown exception in action</source>
+        <translation type="vanished">Ein unbekannter Fehler ist in &apos;Action&apos; aufgetreten</translation>
     </message>
 </context>
 </TS>

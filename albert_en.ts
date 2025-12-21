@@ -2,34 +2,9 @@
 <!DOCTYPE TS>
 <TS version="2.1" language="en_US">
 <context>
-    <name>App</name>
+    <name>Application</name>
     <message>
         <source>Failed to set the hotkey &apos;%1&apos;</source>
-        <translatorcomment> </translatorcomment>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Show/Hide</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Settings</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Open website</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Restart</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Quit</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Changing the frontend requires a restart. Do you want to restart Albert?</source>
         <translation></translation>
     </message>
     <message>
@@ -41,11 +16,27 @@
         <translation></translation>
     </message>
     <message>
+        <source>Changing the frontend requires a restart. Do you want to restart Albert?</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>Set the plugin dirs to use. Comma separated.</source>
         <translation></translation>
     </message>
     <message>
         <source>directories</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Print report and quit.</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Do not implicitly load enabled plugins.</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>command</source>
         <translation></translation>
     </message>
     <message>
@@ -57,19 +48,7 @@
         <translation></translation>
     </message>
     <message>
-        <source>Print report and quit.</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>command</source>
-        <translation></translation>
-    </message>
-    <message>
         <source>Launch Albert or control a running instance.</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Do not implicitly load enabled plugins.</source>
         <translation></translation>
     </message>
 </context>
@@ -184,20 +163,6 @@
 </context>
 <context>
     <name>PluginRegistry</name>
-    <message numerus="yes">
-        <source>Failed loading plugins</source>
-        <translation type="vanished">
-            <numerusform>Failed loading plugin</numerusform>
-            <numerusform>Failed loading plugins</numerusform>
-        </translation>
-    </message>
-    <message numerus="yes">
-        <source>Failed unloading plugins</source>
-        <translation type="vanished">
-            <numerusform>Failed unloading plugin</numerusform>
-            <numerusform>Failed unloading plugins</numerusform>
-        </translation>
-    </message>
     <message>
         <source>Enabling &apos;%1&apos; will also enable the following plugins</source>
         <translation></translation>
@@ -263,34 +228,6 @@
         <translation>
             <numerusform>Maintainer: %1</numerusform>
             <numerusform>Maintainers: %1</numerusform>
-        </translation>
-    </message>
-    <message numerus="yes">
-        <source>Author(s): %1</source>
-        <translation type="vanished">
-            <numerusform>Author: %1</numerusform>
-            <numerusform>Authors: %1</numerusform>
-        </translation>
-    </message>
-    <message numerus="yes">
-        <source>Maintainer(s): %1</source>
-        <translation type="vanished">
-            <numerusform>Maintainer: %1</numerusform>
-            <numerusform>Maintainers: %1</numerusform>
-        </translation>
-    </message>
-    <message numerus="yes">
-        <source>Required executable(s): %1</source>
-        <translation type="obsolete">
-            <numerusform>Required executable: %1</numerusform>
-            <numerusform>Required executables: %1</numerusform>
-        </translation>
-    </message>
-    <message numerus="yes">
-        <source>Required librarie(s): %1</source>
-        <translation type="obsolete">
-            <numerusform>Required library: %1</numerusform>
-            <numerusform>Required libraries: %1</numerusform>
         </translation>
     </message>
     <message>
@@ -378,17 +315,6 @@
     </message>
 </context>
 <context>
-    <name>QueryExecution</name>
-    <message>
-        <source>Exception in action</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Unknown exception in action</source>
-        <translation></translation>
-    </message>
-</context>
-<context>
     <name>QueryHandlerModel</name>
     <message>
         <source>This extension does not allow trigger remapping.</source>
@@ -442,6 +368,17 @@
     </message>
     <message>
         <source>Fuzzy matching.</source>
+        <translation></translation>
+    </message>
+</context>
+<context>
+    <name>QueryResults</name>
+    <message>
+        <source>Exception in action</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Unknown exception in action</source>
         <translation></translation>
     </message>
 </context>
@@ -559,6 +496,29 @@ Recommended is a value in between, such that the results you use often are prefe
     </message>
 </context>
 <context>
+    <name>SystemTrayIcon</name>
+    <message>
+        <source>Show/Hide</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Settings</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Open website</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Restart</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Quit</source>
+        <translation></translation>
+    </message>
+</context>
+<context>
     <name>Telemetry</name>
     <message>
         <source>Albert collects data to improve the user experience. Do you want to help to improve Albert by sending optional telemetry data?</source>
@@ -577,13 +537,6 @@ Recommended is a value in between, such that the results you use often are prefe
     </message>
     <message>
         <source>Trigger completions</source>
-        <translation></translation>
-    </message>
-</context>
-<context>
-    <name>albert</name>
-    <message>
-        <source>Failed creating directory %1: %2</source>
         <translation></translation>
     </message>
 </context>
