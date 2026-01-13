@@ -302,10 +302,6 @@
         <source>Incompatible minor version: %1. Supported up to: %2.</source>
         <translation></translation>
     </message>
-    <message>
-        <source>Loading: %1 ms, Instantiating: %2 ms</source>
-        <translation></translation>
-    </message>
 </context>
 <context>
     <name>QtPluginProvider</name>

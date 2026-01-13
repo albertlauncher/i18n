@@ -332,7 +332,7 @@
     </message>
     <message>
         <source>Loading: %1 ms, Instantiating: %2 ms</source>
-        <translation>Laden: %1 ms, Instanziieren: %2 ms</translation>
+        <translation type="vanished">Laden: %1 ms, Instanziieren: %2 ms</translation>
     </message>
 </context>
 <context>
