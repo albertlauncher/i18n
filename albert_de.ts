@@ -4,26 +4,6 @@
 <context>
     <name>Application</name>
     <message>
-        <source>Show/Hide</source>
-        <translation type="vanished">Zeigen/Verbergen</translation>
-    </message>
-    <message>
-        <source>Settings</source>
-        <translation type="vanished">Einstellungen</translation>
-    </message>
-    <message>
-        <source>Open website</source>
-        <translation type="vanished">Webseite öffnen</translation>
-    </message>
-    <message>
-        <source>Restart</source>
-        <translation type="vanished">Neu starten</translation>
-    </message>
-    <message>
-        <source>Quit</source>
-        <translation type="vanished">Beenden</translation>
-    </message>
-    <message>
         <source>Failed to set the hotkey &apos;%1&apos;</source>
         <translation>Festlegen des Tastenkürzels &apos;%1&apos; fehlgeschlagen</translation>
     </message>
@@ -92,13 +72,6 @@
     <message>
         <source>Description</source>
         <translation>Beschreibung</translation>
-    </message>
-</context>
-<context>
-    <name>GlobalQuery</name>
-    <message>
-        <source>All</source>
-        <translation type="vanished">Alle</translation>
     </message>
 </context>
 <context>
@@ -330,10 +303,6 @@
         <source>Incompatible minor version: %1. Supported up to: %2.</source>
         <translation>Inkompatible Minorversion: %1. Unterstützt bis: %2.</translation>
     </message>
-    <message>
-        <source>Loading: %1 ms, Instantiating: %2 ms</source>
-        <translation type="vanished">Laden: %1 ms, Instanziieren: %2 ms</translation>
-    </message>
 </context>
 <context>
     <name>QtPluginProvider</name>
@@ -552,12 +521,12 @@ Empfohlen wird ein Wert dazwischen, sodass die Ergebnisse, die Sie häufig verwe
 <context>
     <name>Telemetry</name>
     <message>
-        <source>Albert collects data to improve the user experience. Do you want to help to improve Albert by sending optional telemetry data?</source>
-        <translation>Albert sammelt Daten zur Verbesserung der Benutzerfreundlichkeit. Möchten Sie Albert durch das Senden von optionalen Telemetriedaten unterstützen?</translation>
-    </message>
-    <message>
         <source>No tracking, profiling, sharing or commercial use. The transmitted data is non-personal. You can change this configuration anytime in the settings. See the &lt;a href=&apos;https://albertlauncher.github.io/privacy/&apos;&gt;privacy notice&lt;/a&gt; for details.</source>
         <translation>Kein Tracking, Profiling, Teilen oder kommerzielle Nutzung. Die übermittelten Daten sind nicht personenbezogen. Diese Konfiguration kann jederzeit in den Einstellungen geändert werden. Weitere Details finden Sie in der &lt;a href=&apos;https://albertlauncher.github.io/privacy/&apos;&gt;Datenschutzerklärung&lt;/a&gt;.</translation>
+    </message>
+    <message>
+        <source>Albert collects data to improve the user experience. Do you want to help to improve Albert by sending telemetry data?</source>
+        <translation>Albert sammelt Daten zur Verbesserung der Benutzerfreundlichkeit. Möchten Sie Albert durch das Senden von Telemetriedaten unterstützen?</translation>
     </message>
 </context>
 <context>
@@ -569,17 +538,6 @@ Empfohlen wird ein Wert dazwischen, sodass die Ergebnisse, die Sie häufig verwe
     <message>
         <source>Trigger completions</source>
         <translation>Kürzelvervollständigungen</translation>
-    </message>
-</context>
-<context>
-    <name>albert::QueryResults</name>
-    <message>
-        <source>Exception in action</source>
-        <translation type="vanished">Ein Fehler ist in &apos;Action&apos; aufgetreten</translation>
-    </message>
-    <message>
-        <source>Unknown exception in action</source>
-        <translation type="vanished">Ein unbekannter Fehler ist in &apos;Action&apos; aufgetreten</translation>
     </message>
 </context>
 </TS>

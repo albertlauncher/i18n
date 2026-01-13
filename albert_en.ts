@@ -517,11 +517,11 @@ Recommended is a value in between, such that the results you use often are prefe
 <context>
     <name>Telemetry</name>
     <message>
-        <source>Albert collects data to improve the user experience. Do you want to help to improve Albert by sending optional telemetry data?</source>
+        <source>No tracking, profiling, sharing or commercial use. The transmitted data is non-personal. You can change this configuration anytime in the settings. See the &lt;a href=&apos;https://albertlauncher.github.io/privacy/&apos;&gt;privacy notice&lt;/a&gt; for details.</source>
         <translation></translation>
     </message>
     <message>
-        <source>No tracking, profiling, sharing or commercial use. The transmitted data is non-personal. You can change this configuration anytime in the settings. See the &lt;a href=&apos;https://albertlauncher.github.io/privacy/&apos;&gt;privacy notice&lt;/a&gt; for details.</source>
+        <source>Albert collects data to improve the user experience. Do you want to help to improve Albert by sending telemetry data?</source>
         <translation></translation>
     </message>
 </context>
