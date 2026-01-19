@@ -321,15 +321,7 @@
         <translation></translation>
     </message>
     <message>
-        <source>Disable global query handler.</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Enable global query handler.</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Disable fuzzy matching.</source>
+        <source>Enable global query handling.</source>
         <translation></translation>
     </message>
     <message>
@@ -359,7 +351,7 @@
         <translation></translation>
     </message>
     <message>
-        <source>Enabled global query handlers.</source>
+        <source>Global query handling.</source>
         <translation></translation>
     </message>
     <message>

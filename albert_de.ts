@@ -323,15 +323,19 @@
     </message>
     <message>
         <source>Disable global query handler.</source>
-        <translation>Globalabfragebearbeiter deaktivieren.</translation>
+        <translation type="vanished">Globalabfragebearbeiter deaktivieren.</translation>
     </message>
     <message>
         <source>Enable global query handler.</source>
-        <translation>Globalabfragebearbeiter aktivieren.</translation>
+        <translation type="vanished">Globalabfragebearbeiter aktivieren.</translation>
     </message>
     <message>
         <source>Disable fuzzy matching.</source>
-        <translation>Fehlertolerante Suche deaktivieren.</translation>
+        <translation type="vanished">Fehlertolerante Suche deaktivieren.</translation>
+    </message>
+    <message>
+        <source>Enable global query handling.</source>
+        <translation>Globale Abfrageverarbeitung aktivieren.</translation>
     </message>
     <message>
         <source>Enable fuzzy matching.</source>
@@ -360,8 +364,12 @@
         <translation>Das Kürzel des Bearbeiters. Leerzeichen werden durch • dargestellt.</translation>
     </message>
     <message>
+        <source>Global query handling.</source>
+        <translation>Globale Abfrageverarbeitung.</translation>
+    </message>
+    <message>
         <source>Enabled global query handlers.</source>
-        <translation>Aktivierte Globalabfragebehandler.</translation>
+        <translation type="vanished">Aktivierte Globalabfragebehandler.</translation>
     </message>
     <message>
         <source>Fuzzy matching.</source>
