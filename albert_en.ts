@@ -273,7 +273,7 @@
         <translation></translation>
     </message>
     <message>
-        <source>&lt;p&gt;Plugins are a community effort,&lt;br&gt;built by awesome people like you.&lt;/p&gt;&lt;p&gt;💡 &lt;a href=&apos;https://albertlauncher.github.io/gettingstarted/extension/&apos;&gt;Learn how to build plugins&lt;/a&gt;&lt;/p&gt;&lt;br&gt;</source>
+        <source>&lt;p&gt;Plugins are a community effort,&lt;br&gt;built by awesome people like you.&lt;/p&gt;&lt;p&gt;&lt;a href=&apos;%1&apos;&gt;Join our community&lt;/a&gt;&lt;br&gt;and help make Albert thrive.&lt;/p&gt;&lt;br&gt;</source>
         <translation></translation>
     </message>
 </context>
