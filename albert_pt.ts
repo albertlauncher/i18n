@@ -433,11 +433,11 @@ Recomenda-se um valor intermediário, de modo que os resultados que você usa co
     </message>
     <message>
         <source>Use system language</source>
-        <translation type="unfinished"></translation>
+        <translation>Usar idioma do sistema</translation>
     </message>
     <message>
         <source>Share usage data</source>
-        <translation type="unfinished"></translation>
+        <translation>Compartilhar dados de uso</translation>
     </message>
     <message>
         <source>Credits:</source>
@@ -465,7 +465,7 @@ Recomenda-se um valor intermediário, de modo que os resultados que você usa co
     </message>
     <message>
         <source>No translations available for your language.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nenhuma tradução disponível para seu idioma.</translation>
     </message>
     <message>
         <source>Hotkey</source>

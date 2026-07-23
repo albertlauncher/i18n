@@ -430,11 +430,11 @@ Recommended is a value in between, such that the results you use often are prefe
     </message>
     <message>
         <source>Use system language</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Share usage data</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Credits:</source>
@@ -462,7 +462,7 @@ Recommended is a value in between, such that the results you use often are prefe
     </message>
     <message>
         <source>No translations available for your language.</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Hotkey</source>
