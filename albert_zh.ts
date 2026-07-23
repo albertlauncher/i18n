@@ -1,246 +1,240 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="de_DE">
+<TS version="2.1" language="zh_CN">
 <context>
     <name>Application</name>
     <message>
         <source>This is the first time you&apos;ve launched Albert. Albert is plugin based. You have to enable some plugins you want to use.</source>
-        <translation>Dies ist das erste Mal, dass Sie Albert gestartet haben. Albert basiert auf Plugins. Sie müssen Plugins aktivieren, die Sie verwenden möchten.</translation>
+        <translation>这是您第一次启动 Albert。Albert 基于插件，您需要启用一些想要使用的插件。</translation>
     </message>
     <message>
         <source>You are now using Albert %1. The major version changed. Some parts of the API might have changed. Check the &lt;a href=&quot;https://albertlauncher.github.io/news/&quot;&gt;news&lt;/a&gt;.</source>
-        <translation>Sie verwenden jetzt Albert %1. Die Hauptversion wurde geändert. Einige Teile der API könnten sich geändert haben. Überprüfen Sie die &lt;a href=&apos;https://albertlauncher.github.io/news/&apos;&gt;Neuigkeiten&lt;/a&gt;.</translation>
+        <translation>您正在使用 Albert %1。主版本号已更改，API 的某些部分可能已发生变化。请查看&lt;a href=&apos;https://albertlauncher.github.io/news/&apos;&gt;更新日志&lt;/a&gt;。</translation>
     </message>
     <message>
         <source>Set the plugin dirs to use. Comma separated.</source>
-        <translation>Legen Sie die zu verwendenden Plugin-Verzeichnisse fest. Kommagetrennt.</translation>
+        <translation>设置要使用的插件目录，以逗号分隔。</translation>
     </message>
     <message>
         <source>directories</source>
-        <translation>Verzeichnisse</translation>
+        <translation>目录</translation>
     </message>
     <message>
         <source>Do not implicitly load enabled plugins.</source>
-        <translation>Aktivierte Plugins nicht implizit laden.</translation>
+        <translation>不要隐式加载已启用的插件。</translation>
     </message>
     <message>
         <source>command</source>
-        <translation>Befehl</translation>
+        <translation>命令</translation>
     </message>
     <message>
         <source>RPC command to send to the running instance.</source>
-        <translation>RPC-Befehl, der an die laufende Instanz gesendet werden soll.</translation>
+        <translation>发送到正在运行的实例的 RPC 命令。</translation>
     </message>
     <message>
         <source>[command [params...]]</source>
-        <translation>[Befehl [Parameter…]]</translation>
+        <translation>[命令 [参数...]]</translation>
     </message>
     <message>
         <source>Launch Albert or control a running instance.</source>
-        <translation>Albert starten oder eine laufende Instanz steuern.</translation>
+        <translation>启动 Albert 或控制正在运行的实例。</translation>
     </message>
 </context>
 <context>
     <name>Dependency</name>
     <message>
         <source>Extension &apos;%1&apos; is available, but it is not of the expected type.</source>
-        <translation>Erweiterung &apos;%1&apos; ist verfügbar, aber sie ist nicht vom erwarteten Typ.</translation>
+        <translation>扩展 &apos;%1&apos; 可用，但不是预期的类型。</translation>
     </message>
     <message>
         <source>The required extension &apos;%1&apos; is not available.</source>
-        <translation>Die benötigte Erweiterung &apos;%1&apos; ist nicht verfügbar.</translation>
+        <translation>所需的扩展 &apos;%1&apos; 不可用。</translation>
     </message>
 </context>
 <context>
     <name>FallbacksModel</name>
     <message>
         <source>Name</source>
-        <translation>Name</translation>
+        <translation>名称</translation>
     </message>
     <message>
         <source>Description</source>
-        <translation>Beschreibung</translation>
+        <translation>描述</translation>
     </message>
 </context>
 <context>
     <name>HotkeyManager</name>
     <message>
         <source>Failed to set the hotkey &apos;%1&apos;</source>
-        <translation>Festlegen des Tastenkürzels &apos;%1&apos; fehlgeschlagen</translation>
+        <translation>设置快捷键 &apos;%1&apos; 失败</translation>
     </message>
 </context>
 <context>
     <name>OAuthConfigWidget</name>
     <message>
         <source>Client identifier</source>
-        <translation>Client-Identifikator</translation>
+        <translation>客户端标识符</translation>
     </message>
     <message>
         <source>Client secret</source>
-        <translation>Client-Geheimnis</translation>
+        <translation>客户端密钥</translation>
     </message>
     <message>
         <source>Authorization</source>
-        <translation>Autorisierung</translation>
+        <translation>授权</translation>
     </message>
     <message>
         <source>Awaiting authorization…</source>
-        <translation>Warte auf Autorisierung…</translation>
+        <translation>等待授权…</translation>
     </message>
     <message>
         <source>Not authorized.</source>
-        <translation>Nicht autorisiert.</translation>
+        <translation>未授权。</translation>
     </message>
     <message>
         <source>Granted</source>
-        <translation>Gewährt</translation>
+        <translation>已授权</translation>
     </message>
     <message>
         <source>Request</source>
         <comment>action</comment>
-        <translation>Anfragen</translation>
+        <translation>请求</translation>
     </message>
 </context>
 <context>
     <name>PluginQueryHandler</name>
     <message>
         <source>Loaded</source>
-        <translation>Geladen</translation>
+        <translation>已加载</translation>
     </message>
     <message>
         <source>Unloaded</source>
-        <translation>Nicht geladen</translation>
+        <translation>已卸载</translation>
     </message>
     <message>
         <source>Configuration</source>
-        <translation>Konfiguration</translation>
+        <translation>配置</translation>
     </message>
     <message>
         <source>Enabled</source>
-        <translation>Aktiviert</translation>
+        <translation>已启用</translation>
     </message>
     <message>
         <source>Disabled</source>
-        <translation>Deaktiviert</translation>
+        <translation>已禁用</translation>
     </message>
     <message>
         <source>State</source>
-        <translation>Zustand</translation>
+        <translation>状态</translation>
     </message>
     <message>
         <source>Open settings</source>
-        <translation>Einstellungen öffnen</translation>
+        <translation>打开设置</translation>
     </message>
     <message>
         <source>Disable</source>
-        <translation>Deaktivieren</translation>
+        <translation>禁用</translation>
     </message>
     <message>
         <source>Enable</source>
-        <translation>Aktivieren</translation>
+        <translation>启用</translation>
     </message>
     <message>
         <source>Plugins</source>
-        <translation>Plugins</translation>
+        <translation>插件</translation>
     </message>
     <message>
         <source>Manage plugins</source>
-        <translation>Plugins verwalten</translation>
+        <translation>管理插件</translation>
     </message>
     <message>
         <source>Reload</source>
-        <translation>Neu laden</translation>
+        <translation>重新加载</translation>
     </message>
     <message>
         <source>Load</source>
-        <translation>Laden</translation>
+        <translation>加载</translation>
     </message>
 </context>
 <context>
     <name>PluginRegistry</name>
     <message>
         <source>Enabling &apos;%1&apos; will also enable the following plugins</source>
-        <translation>Das Aktivieren von &apos;%1&apos; wird auch die folgenden Plugins aktivieren</translation>
+        <translation>启用 &apos;%1&apos; 将同时启用以下插件</translation>
     </message>
     <message>
         <source>Disabling &apos;%1&apos; will also disable the following plugins</source>
-        <translation>Das Deaktivieren von &apos;%1&apos; wird auch die folgenden Plugins deaktivieren</translation>
+        <translation>禁用 &apos;%1&apos; 将同时禁用以下插件</translation>
     </message>
     <message>
         <source>Failed to load plugin</source>
-        <translation>Laden des Plugins fehlgeschlagen</translation>
+        <translation>加载插件失败</translation>
     </message>
     <message>
         <source>Failed to unload plugin</source>
-        <translation>Entladen des Plugins fehlgeschlagen</translation>
+        <translation>卸载插件失败</translation>
     </message>
     <message>
         <source>Other plugins are currently being loaded.</source>
-        <translation>Andere Plugins werden derzeit geladen.</translation>
+        <translation>其他插件正在加载中。</translation>
     </message>
 </context>
 <context>
     <name>PluginWidget</name>
     <message>
         <source>Credits: %1</source>
-        <translation>Danksagungen: %1</translation>
+        <translation>致谢：%1</translation>
     </message>
     <message numerus="yes">
         <source>Required executables: %1</source>
         <translation>
-            <numerusform>Benötigtes Programm: %1</numerusform>
-            <numerusform>Benötigte Programme: %1</numerusform>
+            <numerusform>所需可执行文件：%1</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>Required libraries: %1</source>
         <translation>
-            <numerusform>Benötigte Bibliothek: %1</numerusform>
-            <numerusform>Benötigte Bibliotheken: %1</numerusform>
+            <numerusform>所需库：%1</numerusform>
         </translation>
     </message>
     <message>
         <source>License: %1</source>
-        <translation>Lizenz: %1</translation>
+        <translation>许可证：%1</translation>
     </message>
     <message numerus="yes">
         <source>Authors: %1</source>
         <translation>
-            <numerusform>Autor: %1</numerusform>
-            <numerusform>Autoren: %1</numerusform>
+            <numerusform>作者：%1</numerusform>
         </translation>
     </message>
     <message>
         <source>Translations: %1</source>
-        <translation>Übersetzungen: %1</translation>
+        <translation>翻译：%1</translation>
     </message>
     <message>
         <source>%1, Interface: %2</source>
-        <translation>%1, Schnittstelle: %2</translation>
+        <translation>%1，接口：%2</translation>
     </message>
     <message numerus="yes">
         <source>Maintainers: %1</source>
         <translation>
-            <numerusform>Betreuer: %1</numerusform>
-            <numerusform>Betreuer: %1</numerusform>
+            <numerusform>维护者：%1</numerusform>
         </translation>
     </message>
     <message>
         <source>Wanted!</source>
-        <translation>Gesucht!</translation>
+        <translation>需要帮助！</translation>
     </message>
     <message numerus="yes">
         <source>Required plugins: %1</source>
         <translation>
-            <numerusform>Benötigtes Plugin: %1</numerusform>
-            <numerusform>Benötigte Plugins: %1</numerusform>
+            <numerusform>所需插件：%1</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>Required by plugins: %1</source>
         <translation>
-            <numerusform>Wird benötigt von Plugin: %1</numerusform>
-            <numerusform>Wird benötigt von Plugins: %1</numerusform>
+            <numerusform>被插件所需：%1</numerusform>
         </translation>
     </message>
 </context>
@@ -248,87 +242,87 @@
     <name>PluginsWidget</name>
     <message>
         <source>Disable</source>
-        <translation>Deaktivieren</translation>
+        <translation>禁用</translation>
     </message>
     <message>
         <source>Enable</source>
-        <translation>Aktivieren</translation>
+        <translation>启用</translation>
     </message>
     <message>
         <source>Unload</source>
-        <translation>Entladen</translation>
+        <translation>卸载</translation>
     </message>
     <message>
         <source>Load</source>
-        <translation>Laden</translation>
+        <translation>加载</translation>
     </message>
     <message>
         <source>Enabled first</source>
-        <translation>Aktivierte zuerst</translation>
+        <translation>启用的优先</translation>
     </message>
     <message>
         <source>&lt;p&gt;Plugins are a community effort,&lt;br&gt;built by awesome people like you.&lt;/p&gt;&lt;p&gt;&lt;a href=&apos;%1&apos;&gt;Join our community&lt;/a&gt;&lt;br&gt;and help make Albert thrive.&lt;/p&gt;&lt;br&gt;</source>
-        <translation>&lt;p&gt;Plugins sind eine Gemeinschaftsleistung,&lt;br&gt;entwickelt von großartigen Menschen wie dir.&lt;/p&gt;&lt;p&gt;&lt;a href=&apos;%1&apos;&gt;Werde Teil der Community&lt;/a&gt;&lt;br&gt;und hilf Albert weiter zu wachsen.&lt;/p&gt;&lt;br&gt;</translation>
+        <translation>&lt;p&gt;插件是社区的共同成果，&lt;br&gt;由像您一样优秀的人构建。&lt;/p&gt;&lt;p&gt;&lt;a href=&apos;%1&apos;&gt;加入我们的社区&lt;/a&gt;&lt;br&gt;帮助 Albert 不断发展。&lt;/p&gt;&lt;br&gt;</translation>
     </message>
 </context>
 <context>
     <name>QHotkey</name>
     <message>
         <source>Failed to register %1. Error: %2</source>
-        <translation>Registrierung von %1 fehlgeschlagen. Fehler: %2</translation>
+        <translation>注册 %1 失败。错误：%2</translation>
     </message>
     <message>
         <source>Failed to unregister %1. Error: %2</source>
-        <translation>Deregistrierung von %1 fehlgeschlagen. Fehler: %2</translation>
+        <translation>注销 %1 失败。错误：%2</translation>
     </message>
 </context>
 <context>
     <name>QtPluginLoader</name>
     <message>
         <source>Invalid interface identifier (IID) pattern : &apos;%1&apos;. Expected &apos;%2&apos;.</source>
-        <translation>Ungültiges Schnittstellenkennungsmuster (IID): &apos;%1&apos;. Erwartet wird &apos;%2&apos;.</translation>
+        <translation>无效的接口标识符（IID）模式：&apos;%1&apos;。预期为 &apos;%2&apos;。</translation>
     </message>
     <message>
         <source>Incompatible major version: %1. Expected: %2.</source>
-        <translation>Inkompatible Majorversion: %1. Erwartet wird: %2.</translation>
+        <translation>不兼容的主版本：%1。预期：%2。</translation>
     </message>
     <message>
         <source>Incompatible minor version: %1. Supported up to: %2.</source>
-        <translation>Inkompatible Minorversion: %1. Unterstützt bis: %2.</translation>
+        <translation>不兼容的次版本：%1。最高支持：%2。</translation>
     </message>
 </context>
 <context>
     <name>QtPluginProvider</name>
     <message>
         <source>Loads native C++ plugins</source>
-        <translation>Lädt native C++ Plugins</translation>
+        <translation>加载原生 C++ 插件</translation>
     </message>
 </context>
 <context>
     <name>QueryHandlerModel</name>
     <message>
         <source>This extension does not allow trigger remapping.</source>
-        <translation>Diese Erweiterung erlaubt keine Änderung des Kürzels.</translation>
+        <translation>此扩展不允许重新映射触发词。</translation>
     </message>
     <message>
         <source>Trigger &apos;%1&apos; is reserved for &apos;%2&apos;.</source>
-        <translation>Das Kürzel &apos;%1&apos; ist reserviert für &apos;%2&apos;.</translation>
+        <translation>触发词 &apos;%1&apos; 已被 &apos;%2&apos; 保留。</translation>
     </message>
     <message>
         <source>Enable global query handling.</source>
-        <translation>Globale Abfrageverarbeitung aktivieren.</translation>
+        <translation>启用全局查询处理。</translation>
     </message>
     <message>
         <source>Enable fuzzy matching.</source>
-        <translation>Fehlertolerante Suche aktivieren.</translation>
+        <translation>启用模糊匹配。</translation>
     </message>
     <message>
         <source>Extension</source>
-        <translation>Erweiterung</translation>
+        <translation>扩展</translation>
     </message>
     <message>
         <source>Trigger</source>
-        <translation>Kürzel</translation>
+        <translation>触发词</translation>
     </message>
     <message>
         <source>G</source>
@@ -342,37 +336,37 @@
     </message>
     <message>
         <source>The trigger of the handler. Spaces are visualized by •.</source>
-        <translation>Das Kürzel des Bearbeiters. Leerzeichen werden durch • dargestellt.</translation>
+        <translation>处理器的触发词。空格以 • 显示。</translation>
     </message>
     <message>
         <source>Global query handling.</source>
-        <translation>Globale Abfrageverarbeitung.</translation>
+        <translation>全局查询处理。</translation>
     </message>
     <message>
         <source>Fuzzy matching.</source>
-        <translation>Fehlertoleranter Abgleich.</translation>
+        <translation>模糊匹配。</translation>
     </message>
 </context>
 <context>
     <name>QueryResults</name>
     <message>
         <source>Exception in action</source>
-        <translation>Ein Fehler ist in &apos;Action&apos; aufgetreten</translation>
+        <translation>操作中发生异常</translation>
     </message>
     <message>
         <source>Unknown exception in action</source>
-        <translation>Ein unbekannter Fehler ist in &apos;Action&apos; aufgetreten</translation>
+        <translation>操作中发生未知异常</translation>
     </message>
 </context>
 <context>
     <name>QueryWidget</name>
     <message>
         <source>Fallback order</source>
-        <translation>Fallbackreihenfolge</translation>
+        <translation>备选顺序</translation>
     </message>
     <message>
         <source>Prefer most frequently used results.</source>
-        <translation>Bevorzuge am häufigsten verwendete Ergebnisse.</translation>
+        <translation>优先显示最常使用的结果。</translation>
     </message>
     <message>
         <source>MFU</source>
@@ -383,53 +377,53 @@
 Using MFU all activations get the same weight and the cumulated score of a results is the count of its usages.
 Using MRU the sum of weights of past activations can not exceed those of newer ones.
 Recommended is a value in between, such that the results you use often are preferred while still allowing Albert to adapt to changes in your usage habits.</source>
-        <translation>Diese Einstellung bestimmt, wie vergangene Aktivierungen die Rangfolge der Ergebnisse einer Abfrage beeinflussen.
-Bei Verwendung von MFU erhalten alle Aktivierungen dasselbe Gewicht, und die kumulierte Punktzahl eines Ergebnisses entspricht der Anzahl seiner Verwendungen.
-Bei Verwendung von MRU kann die Summe der Gewichte vergangener Aktivierungen die der neueren nicht überschreiten.
-Empfohlen wird ein Wert dazwischen, sodass die Ergebnisse, die Sie häufig verwenden, bevorzugt werden, während Albert sich immer noch an Änderungen Ihrer Nutzungsgewohnheiten anpassen kann.</translation>
+        <translation>此选项决定过去的激活记录如何影响查询结果的排名。
+使用 MFU 时，所有激活记录权重相同，结果的累计分数即为其使用次数。
+使用 MRU 时，过去激活记录的权重之和不能超过较新记录的权重。
+建议使用中间值，这样常用结果会被优先显示，同时 Albert 仍能适应您的使用习惯变化。</translation>
     </message>
     <message>
         <source>Prefer most recently used results.</source>
-        <translation>Bevorzuge zuletzt verwendete Ergebnisse.</translation>
+        <translation>优先显示最近使用的结果。</translation>
     </message>
     <message>
         <source>MRU</source>
-        <translation></translation>
+        <translation>MRU</translation>
     </message>
     <message>
         <source>Prioritize perfect matches</source>
-        <translation>Bevorzuge perfekte Übereinstimmungen</translation>
+        <translation>优先显示精确匹配</translation>
     </message>
     <message>
         <source>Prioritize perfect matches even if they have no usage history and therefore would have a lower rank.</source>
-        <translation>Bevorzuge perfekte Übereinstimmungen, auch wenn sie keine Nutzungs­historie haben und daher eine niedrigere Rangfolge hätten.</translation>
+        <translation>优先显示精确匹配项，即使它们没有使用历史且排名较低。</translation>
     </message>
     <message>
         <source>Query handlers</source>
-        <translation>Abfragebehandler</translation>
+        <translation>查询处理器</translation>
     </message>
     <message>
         <source>Sort preference</source>
-        <translation>Sortierpräferenz</translation>
+        <translation>排序偏好</translation>
     </message>
 </context>
 <context>
     <name>SettingsWindow</name>
     <message>
         <source>Settings</source>
-        <translation>Einstellungen</translation>
+        <translation>设置</translation>
     </message>
     <message>
         <source>General</source>
-        <translation>Allgemein</translation>
+        <translation>通用</translation>
     </message>
     <message>
         <source>Frontend</source>
-        <translation>Benutzeroberfläche</translation>
+        <translation>前端界面</translation>
     </message>
     <message>
         <source>Show tray icon</source>
-        <translation>Tray-Symbol anzeigen</translation>
+        <translation>显示托盘图标</translation>
     </message>
     <message>
         <source>Use system language</source>
@@ -441,27 +435,27 @@ Empfohlen wird ein Wert dazwischen, sodass die Ergebnisse, die Sie häufig verwe
     </message>
     <message>
         <source>Credits:</source>
-        <translation>Danksagungen:</translation>
+        <translation>致谢：</translation>
     </message>
     <message>
         <source>&amp;Window</source>
-        <translation>&amp;Fenster</translation>
+        <translation>窗口(&amp;W)</translation>
     </message>
     <message>
         <source>&amp;Plugins</source>
-        <translation></translation>
+        <translation>插件(&amp;P)</translation>
     </message>
     <message>
         <source>&amp;Query</source>
-        <translation>&amp;Abfrage</translation>
+        <translation>查询(&amp;Q)</translation>
     </message>
     <message>
         <source>Not set</source>
-        <translation>Nicht festgelegt</translation>
+        <translation>未设置</translation>
     </message>
     <message>
         <source>Not supported</source>
-        <translation>Nicht unterstützt</translation>
+        <translation>不支持</translation>
     </message>
     <message>
         <source>No translations available for your language.</source>
@@ -469,79 +463,79 @@ Empfohlen wird ein Wert dazwischen, sodass die Ergebnisse, die Sie häufig verwe
     </message>
     <message>
         <source>Hotkey</source>
-        <translation>Tastenkürzel</translation>
+        <translation>快捷键</translation>
     </message>
     <message>
         <source>Set hotkey</source>
-        <translation>Tastenkürzel festlegen</translation>
+        <translation>设置快捷键</translation>
     </message>
     <message>
         <source>Press a key combination</source>
-        <translation>Drücke ein Tastenkürzel</translation>
+        <translation>请按下快捷键组合</translation>
     </message>
     <message>
         <source>Addtional PATH entries</source>
-        <translation>Zusätzliche PATH-Einträge</translation>
+        <translation>额外的 PATH 条目</translation>
     </message>
     <message>
         <source>For the changes to take effect, Albert has to be restarted. Do you want to restart Albert now?</source>
-        <translation>Damit die Änderungen wirksam werden, muss Albert neu gestartet werden. Möchten Sie Albert jetzt neu starten?</translation>
+        <translation>更改需要重启后才能生效。是否要现在重启 Albert？</translation>
     </message>
 </context>
 <context>
     <name>SystemTrayIcon</name>
     <message>
         <source>Show/Hide</source>
-        <translation>Zeigen/Verbergen</translation>
+        <translation>显示/隐藏</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation>Einstellungen</translation>
+        <translation>设置</translation>
     </message>
     <message>
         <source>Open website</source>
-        <translation>Webseite öffnen</translation>
+        <translation>打开网站</translation>
     </message>
     <message>
         <source>Restart</source>
-        <translation>Neu starten</translation>
+        <translation>重启</translation>
     </message>
     <message>
         <source>Quit</source>
-        <translation>Beenden</translation>
+        <translation>退出</translation>
     </message>
 </context>
 <context>
     <name>Telemetry</name>
     <message>
         <source>No tracking, profiling, sharing or commercial use. The transmitted data is non-personal. You can change this configuration anytime in the settings. See the &lt;a href=&apos;https://albertlauncher.github.io/privacy/&apos;&gt;privacy notice&lt;/a&gt; for details.</source>
-        <translation>Kein Tracking, Profiling, Teilen oder kommerzielle Nutzung. Die übermittelten Daten sind nicht personenbezogen. Diese Konfiguration kann jederzeit in den Einstellungen geändert werden. Weitere Details finden Sie in der &lt;a href=&apos;https://albertlauncher.github.io/privacy/&apos;&gt;Datenschutzerklärung&lt;/a&gt;.</translation>
+        <translation>无跟踪、分析、共享或商业用途。传输的数据不包含个人信息。您可以随时在设置中更改此配置。详情请参阅&lt;a href=&apos;https://albertlauncher.github.io/privacy/&apos;&gt;隐私声明&lt;/a&gt;。</translation>
     </message>
     <message>
         <source>Albert collects data to improve the user experience. Do you want to help to improve Albert by sending telemetry data?</source>
-        <translation>Albert sammelt Daten zur Verbesserung der Benutzerfreundlichkeit. Möchten Sie Albert durch das Senden von Telemetriedaten unterstützen?</translation>
+        <translation>Albert 收集数据以改善用户体验。您是否愿意通过发送遥测数据来帮助改进 Albert？</translation>
     </message>
 </context>
 <context>
     <name>TriggersQueryHandler</name>
     <message>
         <source>Set input text</source>
-        <translation>Eingabetext setzen</translation>
+        <translation>设置输入文本</translation>
     </message>
     <message>
         <source>Trigger completions</source>
-        <translation>Kürzelvervollständigungen</translation>
+        <translation>触发补全</translation>
     </message>
 </context>
 <context>
     <name>albert::QueryResults</name>
     <message>
         <source>Exception in action</source>
-        <translation>Ein Fehler ist in &apos;Action&apos; aufgetreten</translation>
+        <translation>操作中发生异常</translation>
     </message>
     <message>
         <source>Unknown exception in action</source>
-        <translation>Ein unbekannter Fehler ist in &apos;Action&apos; aufgetreten</translation>
+        <translation>操作中发生未知异常</translation>
     </message>
 </context>
 </TS>

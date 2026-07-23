@@ -1,143 +1,143 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="de_DE">
+<TS version="2.1" language="fr">
 <context>
     <name>Application</name>
     <message>
         <source>This is the first time you&apos;ve launched Albert. Albert is plugin based. You have to enable some plugins you want to use.</source>
-        <translation>Dies ist das erste Mal, dass Sie Albert gestartet haben. Albert basiert auf Plugins. Sie müssen Plugins aktivieren, die Sie verwenden möchten.</translation>
+        <translation>C&apos;est la première fois que vous lancez Albert. Albert est basé sur des plugins. Vous devez activer les plugins que vous souhaitez utiliser.</translation>
     </message>
     <message>
         <source>You are now using Albert %1. The major version changed. Some parts of the API might have changed. Check the &lt;a href=&quot;https://albertlauncher.github.io/news/&quot;&gt;news&lt;/a&gt;.</source>
-        <translation>Sie verwenden jetzt Albert %1. Die Hauptversion wurde geändert. Einige Teile der API könnten sich geändert haben. Überprüfen Sie die &lt;a href=&apos;https://albertlauncher.github.io/news/&apos;&gt;Neuigkeiten&lt;/a&gt;.</translation>
+        <translation>Vous utilisez maintenant Albert %1. La version majeure a changé. Certaines parties de l&apos;API ont pu changer. Consultez les &lt;a href=&apos;https://albertlauncher.github.io/news/&apos;&gt;nouveautés&lt;/a&gt;.</translation>
     </message>
     <message>
         <source>Set the plugin dirs to use. Comma separated.</source>
-        <translation>Legen Sie die zu verwendenden Plugin-Verzeichnisse fest. Kommagetrennt.</translation>
+        <translation>Définir les répertoires de plugins à utiliser. Séparés par des virgules.</translation>
     </message>
     <message>
         <source>directories</source>
-        <translation>Verzeichnisse</translation>
+        <translation>répertoires</translation>
     </message>
     <message>
         <source>Do not implicitly load enabled plugins.</source>
-        <translation>Aktivierte Plugins nicht implizit laden.</translation>
+        <translation>Ne pas charger implicitement les plugins activés.</translation>
     </message>
     <message>
         <source>command</source>
-        <translation>Befehl</translation>
+        <translation>commande</translation>
     </message>
     <message>
         <source>RPC command to send to the running instance.</source>
-        <translation>RPC-Befehl, der an die laufende Instanz gesendet werden soll.</translation>
+        <translation>Commande RPC à envoyer à l&apos;instance en cours d&apos;exécution.</translation>
     </message>
     <message>
         <source>[command [params...]]</source>
-        <translation>[Befehl [Parameter…]]</translation>
+        <translation>[commande [paramètres...]]</translation>
     </message>
     <message>
         <source>Launch Albert or control a running instance.</source>
-        <translation>Albert starten oder eine laufende Instanz steuern.</translation>
+        <translation>Lancer Albert ou contrôler une instance en cours d&apos;exécution.</translation>
     </message>
 </context>
 <context>
     <name>Dependency</name>
     <message>
         <source>Extension &apos;%1&apos; is available, but it is not of the expected type.</source>
-        <translation>Erweiterung &apos;%1&apos; ist verfügbar, aber sie ist nicht vom erwarteten Typ.</translation>
+        <translation>L&apos;extension &apos;%1&apos; est disponible, mais elle n&apos;est pas du type attendu.</translation>
     </message>
     <message>
         <source>The required extension &apos;%1&apos; is not available.</source>
-        <translation>Die benötigte Erweiterung &apos;%1&apos; ist nicht verfügbar.</translation>
+        <translation>L&apos;extension requise &apos;%1&apos; n&apos;est pas disponible.</translation>
     </message>
 </context>
 <context>
     <name>FallbacksModel</name>
     <message>
         <source>Name</source>
-        <translation>Name</translation>
+        <translation>Nom</translation>
     </message>
     <message>
         <source>Description</source>
-        <translation>Beschreibung</translation>
+        <translation>Description</translation>
     </message>
 </context>
 <context>
     <name>HotkeyManager</name>
     <message>
         <source>Failed to set the hotkey &apos;%1&apos;</source>
-        <translation>Festlegen des Tastenkürzels &apos;%1&apos; fehlgeschlagen</translation>
+        <translation>Échec de la définition du raccourci clavier &apos;%1&apos;</translation>
     </message>
 </context>
 <context>
     <name>OAuthConfigWidget</name>
     <message>
         <source>Client identifier</source>
-        <translation>Client-Identifikator</translation>
+        <translation>Identifiant client</translation>
     </message>
     <message>
         <source>Client secret</source>
-        <translation>Client-Geheimnis</translation>
+        <translation>Secret client</translation>
     </message>
     <message>
         <source>Authorization</source>
-        <translation>Autorisierung</translation>
+        <translation>Autorisation</translation>
     </message>
     <message>
         <source>Awaiting authorization…</source>
-        <translation>Warte auf Autorisierung…</translation>
+        <translation>En attente d&apos;autorisation…</translation>
     </message>
     <message>
         <source>Not authorized.</source>
-        <translation>Nicht autorisiert.</translation>
+        <translation>Non autorisé.</translation>
     </message>
     <message>
         <source>Granted</source>
-        <translation>Gewährt</translation>
+        <translation>Accordé</translation>
     </message>
     <message>
         <source>Request</source>
         <comment>action</comment>
-        <translation>Anfragen</translation>
+        <translation>Demander</translation>
     </message>
 </context>
 <context>
     <name>PluginQueryHandler</name>
     <message>
         <source>Loaded</source>
-        <translation>Geladen</translation>
+        <translation>Chargé</translation>
     </message>
     <message>
         <source>Unloaded</source>
-        <translation>Nicht geladen</translation>
+        <translation>Déchargé</translation>
     </message>
     <message>
         <source>Configuration</source>
-        <translation>Konfiguration</translation>
+        <translation>Configuration</translation>
     </message>
     <message>
         <source>Enabled</source>
-        <translation>Aktiviert</translation>
+        <translation>Activé</translation>
     </message>
     <message>
         <source>Disabled</source>
-        <translation>Deaktiviert</translation>
+        <translation>Désactivé</translation>
     </message>
     <message>
         <source>State</source>
-        <translation>Zustand</translation>
+        <translation>État</translation>
     </message>
     <message>
         <source>Open settings</source>
-        <translation>Einstellungen öffnen</translation>
+        <translation>Ouvrir les paramètres</translation>
     </message>
     <message>
         <source>Disable</source>
-        <translation>Deaktivieren</translation>
+        <translation>Désactiver</translation>
     </message>
     <message>
         <source>Enable</source>
-        <translation>Aktivieren</translation>
+        <translation>Activer</translation>
     </message>
     <message>
         <source>Plugins</source>
@@ -145,102 +145,102 @@
     </message>
     <message>
         <source>Manage plugins</source>
-        <translation>Plugins verwalten</translation>
+        <translation>Gérer les plugins</translation>
     </message>
     <message>
         <source>Reload</source>
-        <translation>Neu laden</translation>
+        <translation>Recharger</translation>
     </message>
     <message>
         <source>Load</source>
-        <translation>Laden</translation>
+        <translation>Charger</translation>
     </message>
 </context>
 <context>
     <name>PluginRegistry</name>
     <message>
         <source>Enabling &apos;%1&apos; will also enable the following plugins</source>
-        <translation>Das Aktivieren von &apos;%1&apos; wird auch die folgenden Plugins aktivieren</translation>
+        <translation>L&apos;activation de &apos;%1&apos; activera également les plugins suivants</translation>
     </message>
     <message>
         <source>Disabling &apos;%1&apos; will also disable the following plugins</source>
-        <translation>Das Deaktivieren von &apos;%1&apos; wird auch die folgenden Plugins deaktivieren</translation>
+        <translation>La désactivation de &apos;%1&apos; désactivera également les plugins suivants</translation>
     </message>
     <message>
         <source>Failed to load plugin</source>
-        <translation>Laden des Plugins fehlgeschlagen</translation>
+        <translation>Échec du chargement du plugin</translation>
     </message>
     <message>
         <source>Failed to unload plugin</source>
-        <translation>Entladen des Plugins fehlgeschlagen</translation>
+        <translation>Échec du déchargement du plugin</translation>
     </message>
     <message>
         <source>Other plugins are currently being loaded.</source>
-        <translation>Andere Plugins werden derzeit geladen.</translation>
+        <translation>D&apos;autres plugins sont en cours de chargement.</translation>
     </message>
 </context>
 <context>
     <name>PluginWidget</name>
     <message>
         <source>Credits: %1</source>
-        <translation>Danksagungen: %1</translation>
+        <translation>Crédits : %1</translation>
     </message>
     <message numerus="yes">
         <source>Required executables: %1</source>
         <translation>
-            <numerusform>Benötigtes Programm: %1</numerusform>
-            <numerusform>Benötigte Programme: %1</numerusform>
+            <numerusform>Exécutable requis : %1</numerusform>
+            <numerusform>Exécutables requis : %1</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>Required libraries: %1</source>
         <translation>
-            <numerusform>Benötigte Bibliothek: %1</numerusform>
-            <numerusform>Benötigte Bibliotheken: %1</numerusform>
+            <numerusform>Bibliothèque requise : %1</numerusform>
+            <numerusform>Bibliothèques requises : %1</numerusform>
         </translation>
     </message>
     <message>
         <source>License: %1</source>
-        <translation>Lizenz: %1</translation>
+        <translation>Licence : %1</translation>
     </message>
     <message numerus="yes">
         <source>Authors: %1</source>
         <translation>
-            <numerusform>Autor: %1</numerusform>
-            <numerusform>Autoren: %1</numerusform>
+            <numerusform>Auteur : %1</numerusform>
+            <numerusform>Auteurs : %1</numerusform>
         </translation>
     </message>
     <message>
         <source>Translations: %1</source>
-        <translation>Übersetzungen: %1</translation>
+        <translation>Traductions : %1</translation>
     </message>
     <message>
         <source>%1, Interface: %2</source>
-        <translation>%1, Schnittstelle: %2</translation>
+        <translation>%1, Interface : %2</translation>
     </message>
     <message numerus="yes">
         <source>Maintainers: %1</source>
         <translation>
-            <numerusform>Betreuer: %1</numerusform>
-            <numerusform>Betreuer: %1</numerusform>
+            <numerusform>Mainteneur : %1</numerusform>
+            <numerusform>Mainteneurs : %1</numerusform>
         </translation>
     </message>
     <message>
         <source>Wanted!</source>
-        <translation>Gesucht!</translation>
+        <translation>Recherché !</translation>
     </message>
     <message numerus="yes">
         <source>Required plugins: %1</source>
         <translation>
-            <numerusform>Benötigtes Plugin: %1</numerusform>
-            <numerusform>Benötigte Plugins: %1</numerusform>
+            <numerusform>Plugin requis : %1</numerusform>
+            <numerusform>Plugins requis : %1</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>Required by plugins: %1</source>
         <translation>
-            <numerusform>Wird benötigt von Plugin: %1</numerusform>
-            <numerusform>Wird benötigt von Plugins: %1</numerusform>
+            <numerusform>Requis par le plugin : %1</numerusform>
+            <numerusform>Requis par les plugins : %1</numerusform>
         </translation>
     </message>
 </context>
@@ -248,87 +248,87 @@
     <name>PluginsWidget</name>
     <message>
         <source>Disable</source>
-        <translation>Deaktivieren</translation>
+        <translation>Désactiver</translation>
     </message>
     <message>
         <source>Enable</source>
-        <translation>Aktivieren</translation>
+        <translation>Activer</translation>
     </message>
     <message>
         <source>Unload</source>
-        <translation>Entladen</translation>
+        <translation>Décharger</translation>
     </message>
     <message>
         <source>Load</source>
-        <translation>Laden</translation>
+        <translation>Charger</translation>
     </message>
     <message>
         <source>Enabled first</source>
-        <translation>Aktivierte zuerst</translation>
+        <translation>Activés en premier</translation>
     </message>
     <message>
         <source>&lt;p&gt;Plugins are a community effort,&lt;br&gt;built by awesome people like you.&lt;/p&gt;&lt;p&gt;&lt;a href=&apos;%1&apos;&gt;Join our community&lt;/a&gt;&lt;br&gt;and help make Albert thrive.&lt;/p&gt;&lt;br&gt;</source>
-        <translation>&lt;p&gt;Plugins sind eine Gemeinschaftsleistung,&lt;br&gt;entwickelt von großartigen Menschen wie dir.&lt;/p&gt;&lt;p&gt;&lt;a href=&apos;%1&apos;&gt;Werde Teil der Community&lt;/a&gt;&lt;br&gt;und hilf Albert weiter zu wachsen.&lt;/p&gt;&lt;br&gt;</translation>
+        <translation>&lt;p&gt;Les plugins sont un effort communautaire,&lt;br&gt;créés par des personnes formidables comme vous.&lt;/p&gt;&lt;p&gt;&lt;a href=&apos;%1&apos;&gt;Rejoignez notre communauté&lt;/a&gt;&lt;br&gt;et aidez Albert à prospérer.&lt;/p&gt;&lt;br&gt;</translation>
     </message>
 </context>
 <context>
     <name>QHotkey</name>
     <message>
         <source>Failed to register %1. Error: %2</source>
-        <translation>Registrierung von %1 fehlgeschlagen. Fehler: %2</translation>
+        <translation>Échec de l&apos;enregistrement de %1. Erreur : %2</translation>
     </message>
     <message>
         <source>Failed to unregister %1. Error: %2</source>
-        <translation>Deregistrierung von %1 fehlgeschlagen. Fehler: %2</translation>
+        <translation>Échec de la désinscription de %1. Erreur : %2</translation>
     </message>
 </context>
 <context>
     <name>QtPluginLoader</name>
     <message>
         <source>Invalid interface identifier (IID) pattern : &apos;%1&apos;. Expected &apos;%2&apos;.</source>
-        <translation>Ungültiges Schnittstellenkennungsmuster (IID): &apos;%1&apos;. Erwartet wird &apos;%2&apos;.</translation>
+        <translation>Modèle d&apos;identifiant d&apos;interface (IID) invalide : &apos;%1&apos;. Attendu : &apos;%2&apos;.</translation>
     </message>
     <message>
         <source>Incompatible major version: %1. Expected: %2.</source>
-        <translation>Inkompatible Majorversion: %1. Erwartet wird: %2.</translation>
+        <translation>Version majeure incompatible : %1. Attendue : %2.</translation>
     </message>
     <message>
         <source>Incompatible minor version: %1. Supported up to: %2.</source>
-        <translation>Inkompatible Minorversion: %1. Unterstützt bis: %2.</translation>
+        <translation>Version mineure incompatible : %1. Supportée jusqu&apos;à : %2.</translation>
     </message>
 </context>
 <context>
     <name>QtPluginProvider</name>
     <message>
         <source>Loads native C++ plugins</source>
-        <translation>Lädt native C++ Plugins</translation>
+        <translation>Charge les plugins natifs C++</translation>
     </message>
 </context>
 <context>
     <name>QueryHandlerModel</name>
     <message>
         <source>This extension does not allow trigger remapping.</source>
-        <translation>Diese Erweiterung erlaubt keine Änderung des Kürzels.</translation>
+        <translation>Cette extension ne permet pas le remappage des déclencheurs.</translation>
     </message>
     <message>
         <source>Trigger &apos;%1&apos; is reserved for &apos;%2&apos;.</source>
-        <translation>Das Kürzel &apos;%1&apos; ist reserviert für &apos;%2&apos;.</translation>
+        <translation>Le déclencheur &apos;%1&apos; est réservé pour &apos;%2&apos;.</translation>
     </message>
     <message>
         <source>Enable global query handling.</source>
-        <translation>Globale Abfrageverarbeitung aktivieren.</translation>
+        <translation>Activer la gestion des requêtes globales.</translation>
     </message>
     <message>
         <source>Enable fuzzy matching.</source>
-        <translation>Fehlertolerante Suche aktivieren.</translation>
+        <translation>Activer la correspondance floue.</translation>
     </message>
     <message>
         <source>Extension</source>
-        <translation>Erweiterung</translation>
+        <translation>Extension</translation>
     </message>
     <message>
         <source>Trigger</source>
-        <translation>Kürzel</translation>
+        <translation>Déclencheur</translation>
     </message>
     <message>
         <source>G</source>
@@ -342,37 +342,37 @@
     </message>
     <message>
         <source>The trigger of the handler. Spaces are visualized by •.</source>
-        <translation>Das Kürzel des Bearbeiters. Leerzeichen werden durch • dargestellt.</translation>
+        <translation>Le déclencheur du gestionnaire. Les espaces sont visualisés par •.</translation>
     </message>
     <message>
         <source>Global query handling.</source>
-        <translation>Globale Abfrageverarbeitung.</translation>
+        <translation>Gestion des requêtes globales.</translation>
     </message>
     <message>
         <source>Fuzzy matching.</source>
-        <translation>Fehlertoleranter Abgleich.</translation>
+        <translation>Correspondance floue.</translation>
     </message>
 </context>
 <context>
     <name>QueryResults</name>
     <message>
         <source>Exception in action</source>
-        <translation>Ein Fehler ist in &apos;Action&apos; aufgetreten</translation>
+        <translation>Exception dans l&apos;action</translation>
     </message>
     <message>
         <source>Unknown exception in action</source>
-        <translation>Ein unbekannter Fehler ist in &apos;Action&apos; aufgetreten</translation>
+        <translation>Exception inconnue dans l&apos;action</translation>
     </message>
 </context>
 <context>
     <name>QueryWidget</name>
     <message>
         <source>Fallback order</source>
-        <translation>Fallbackreihenfolge</translation>
+        <translation>Ordre de repli</translation>
     </message>
     <message>
         <source>Prefer most frequently used results.</source>
-        <translation>Bevorzuge am häufigsten verwendete Ergebnisse.</translation>
+        <translation>Préférer les résultats les plus fréquemment utilisés.</translation>
     </message>
     <message>
         <source>MFU</source>
@@ -383,53 +383,53 @@
 Using MFU all activations get the same weight and the cumulated score of a results is the count of its usages.
 Using MRU the sum of weights of past activations can not exceed those of newer ones.
 Recommended is a value in between, such that the results you use often are preferred while still allowing Albert to adapt to changes in your usage habits.</source>
-        <translation>Diese Einstellung bestimmt, wie vergangene Aktivierungen die Rangfolge der Ergebnisse einer Abfrage beeinflussen.
-Bei Verwendung von MFU erhalten alle Aktivierungen dasselbe Gewicht, und die kumulierte Punktzahl eines Ergebnisses entspricht der Anzahl seiner Verwendungen.
-Bei Verwendung von MRU kann die Summe der Gewichte vergangener Aktivierungen die der neueren nicht überschreiten.
-Empfohlen wird ein Wert dazwischen, sodass die Ergebnisse, die Sie häufig verwenden, bevorzugt werden, während Albert sich immer noch an Änderungen Ihrer Nutzungsgewohnheiten anpassen kann.</translation>
+        <translation>Cette préférence détermine comment les activations passées influencent le classement des résultats d&apos;une requête.
+Avec MFU, toutes les activations ont le même poids et le score cumulé d&apos;un résultat correspond au nombre de ses utilisations.
+Avec MRU, la somme des poids des activations passées ne peut pas dépasser celle des plus récentes.
+Une valeur intermédiaire est recommandée, de sorte que les résultats que vous utilisez souvent soient préférés tout en permettant à Albert de s&apos;adapter aux changements dans vos habitudes d&apos;utilisation.</translation>
     </message>
     <message>
         <source>Prefer most recently used results.</source>
-        <translation>Bevorzuge zuletzt verwendete Ergebnisse.</translation>
+        <translation>Préférer les résultats récemment utilisés.</translation>
     </message>
     <message>
         <source>MRU</source>
-        <translation></translation>
+        <translation>MRU</translation>
     </message>
     <message>
         <source>Prioritize perfect matches</source>
-        <translation>Bevorzuge perfekte Übereinstimmungen</translation>
+        <translation>Prioriser les correspondances exactes</translation>
     </message>
     <message>
         <source>Prioritize perfect matches even if they have no usage history and therefore would have a lower rank.</source>
-        <translation>Bevorzuge perfekte Übereinstimmungen, auch wenn sie keine Nutzungs­historie haben und daher eine niedrigere Rangfolge hätten.</translation>
+        <translation>Prioriser les correspondances exactes même si elles n&apos;ont pas d&apos;historique d&apos;utilisation et auraient donc un classement plus bas.</translation>
     </message>
     <message>
         <source>Query handlers</source>
-        <translation>Abfragebehandler</translation>
+        <translation>Gestionnaires de requêtes</translation>
     </message>
     <message>
         <source>Sort preference</source>
-        <translation>Sortierpräferenz</translation>
+        <translation>Préférence de tri</translation>
     </message>
 </context>
 <context>
     <name>SettingsWindow</name>
     <message>
         <source>Settings</source>
-        <translation>Einstellungen</translation>
+        <translation>Paramètres</translation>
     </message>
     <message>
         <source>General</source>
-        <translation>Allgemein</translation>
+        <translation>Général</translation>
     </message>
     <message>
         <source>Frontend</source>
-        <translation>Benutzeroberfläche</translation>
+        <translation>Interface</translation>
     </message>
     <message>
         <source>Show tray icon</source>
-        <translation>Tray-Symbol anzeigen</translation>
+        <translation>Afficher l&apos;icône de la zone de notification</translation>
     </message>
     <message>
         <source>Use system language</source>
@@ -441,27 +441,27 @@ Empfohlen wird ein Wert dazwischen, sodass die Ergebnisse, die Sie häufig verwe
     </message>
     <message>
         <source>Credits:</source>
-        <translation>Danksagungen:</translation>
+        <translation>Crédits :</translation>
     </message>
     <message>
         <source>&amp;Window</source>
-        <translation>&amp;Fenster</translation>
+        <translation>&amp;Fenêtre</translation>
     </message>
     <message>
         <source>&amp;Plugins</source>
-        <translation></translation>
+        <translation>&amp;Plugins</translation>
     </message>
     <message>
         <source>&amp;Query</source>
-        <translation>&amp;Abfrage</translation>
+        <translation>&amp;Requête</translation>
     </message>
     <message>
         <source>Not set</source>
-        <translation>Nicht festgelegt</translation>
+        <translation>Non défini</translation>
     </message>
     <message>
         <source>Not supported</source>
-        <translation>Nicht unterstützt</translation>
+        <translation>Non supporté</translation>
     </message>
     <message>
         <source>No translations available for your language.</source>
@@ -469,79 +469,79 @@ Empfohlen wird ein Wert dazwischen, sodass die Ergebnisse, die Sie häufig verwe
     </message>
     <message>
         <source>Hotkey</source>
-        <translation>Tastenkürzel</translation>
+        <translation>Raccourci clavier</translation>
     </message>
     <message>
         <source>Set hotkey</source>
-        <translation>Tastenkürzel festlegen</translation>
+        <translation>Définir le raccourci clavier</translation>
     </message>
     <message>
         <source>Press a key combination</source>
-        <translation>Drücke ein Tastenkürzel</translation>
+        <translation>Appuyez sur une combinaison de touches</translation>
     </message>
     <message>
         <source>Addtional PATH entries</source>
-        <translation>Zusätzliche PATH-Einträge</translation>
+        <translation>Entrées PATH supplémentaires</translation>
     </message>
     <message>
         <source>For the changes to take effect, Albert has to be restarted. Do you want to restart Albert now?</source>
-        <translation>Damit die Änderungen wirksam werden, muss Albert neu gestartet werden. Möchten Sie Albert jetzt neu starten?</translation>
+        <translation>Pour que les modifications prennent effet, Albert doit être redémarré. Voulez-vous redémarrer Albert maintenant ?</translation>
     </message>
 </context>
 <context>
     <name>SystemTrayIcon</name>
     <message>
         <source>Show/Hide</source>
-        <translation>Zeigen/Verbergen</translation>
+        <translation>Afficher/Masquer</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation>Einstellungen</translation>
+        <translation>Paramètres</translation>
     </message>
     <message>
         <source>Open website</source>
-        <translation>Webseite öffnen</translation>
+        <translation>Ouvrir le site web</translation>
     </message>
     <message>
         <source>Restart</source>
-        <translation>Neu starten</translation>
+        <translation>Redémarrer</translation>
     </message>
     <message>
         <source>Quit</source>
-        <translation>Beenden</translation>
+        <translation>Quitter</translation>
     </message>
 </context>
 <context>
     <name>Telemetry</name>
     <message>
         <source>No tracking, profiling, sharing or commercial use. The transmitted data is non-personal. You can change this configuration anytime in the settings. See the &lt;a href=&apos;https://albertlauncher.github.io/privacy/&apos;&gt;privacy notice&lt;/a&gt; for details.</source>
-        <translation>Kein Tracking, Profiling, Teilen oder kommerzielle Nutzung. Die übermittelten Daten sind nicht personenbezogen. Diese Konfiguration kann jederzeit in den Einstellungen geändert werden. Weitere Details finden Sie in der &lt;a href=&apos;https://albertlauncher.github.io/privacy/&apos;&gt;Datenschutzerklärung&lt;/a&gt;.</translation>
+        <translation>Aucun suivi, profilage, partage ou utilisation commerciale. Les données transmises ne sont pas personnelles. Vous pouvez modifier cette configuration à tout moment dans les paramètres. Consultez l&apos;&lt;a href=&apos;https://albertlauncher.github.io/privacy/&apos;&gt;avis de confidentialité&lt;/a&gt; pour plus de détails.</translation>
     </message>
     <message>
         <source>Albert collects data to improve the user experience. Do you want to help to improve Albert by sending telemetry data?</source>
-        <translation>Albert sammelt Daten zur Verbesserung der Benutzerfreundlichkeit. Möchten Sie Albert durch das Senden von Telemetriedaten unterstützen?</translation>
+        <translation>Albert collecte des données pour améliorer l&apos;expérience utilisateur. Voulez-vous aider à améliorer Albert en envoyant des données de télémétrie ?</translation>
     </message>
 </context>
 <context>
     <name>TriggersQueryHandler</name>
     <message>
         <source>Set input text</source>
-        <translation>Eingabetext setzen</translation>
+        <translation>Définir le texte d&apos;entrée</translation>
     </message>
     <message>
         <source>Trigger completions</source>
-        <translation>Kürzelvervollständigungen</translation>
+        <translation>Complétion par déclencheur</translation>
     </message>
 </context>
 <context>
     <name>albert::QueryResults</name>
     <message>
         <source>Exception in action</source>
-        <translation>Ein Fehler ist in &apos;Action&apos; aufgetreten</translation>
+        <translation>Exception dans l&apos;action</translation>
     </message>
     <message>
         <source>Unknown exception in action</source>
-        <translation>Ein unbekannter Fehler ist in &apos;Action&apos; aufgetreten</translation>
+        <translation>Exception inconnue dans l&apos;action</translation>
     </message>
 </context>
 </TS>

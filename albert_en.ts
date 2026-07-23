@@ -4,10 +4,6 @@
 <context>
     <name>Application</name>
     <message>
-        <source>Failed to set the hotkey &apos;%1&apos;</source>
-        <translation></translation>
-    </message>
-    <message>
         <source>This is the first time you&apos;ve launched Albert. Albert is plugin based. You have to enable some plugins you want to use.</source>
         <translation></translation>
     </message>
@@ -16,19 +12,11 @@
         <translation></translation>
     </message>
     <message>
-        <source>Changing the frontend requires a restart. Do you want to restart Albert?</source>
-        <translation></translation>
-    </message>
-    <message>
         <source>Set the plugin dirs to use. Comma separated.</source>
         <translation></translation>
     </message>
     <message>
         <source>directories</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Print report and quit.</source>
         <translation></translation>
     </message>
     <message>
@@ -71,6 +59,13 @@
     </message>
     <message>
         <source>Description</source>
+        <translation></translation>
+    </message>
+</context>
+<context>
+    <name>HotkeyManager</name>
+    <message>
+        <source>Failed to set the hotkey &apos;%1&apos;</source>
         <translation></translation>
     </message>
 </context>
@@ -232,7 +227,6 @@
     </message>
     <message>
         <source>Wanted!</source>
-        <extracomment>Placeholder for empty maintainers</extracomment>
         <translation></translation>
     </message>
     <message numerus="yes">
@@ -435,6 +429,14 @@ Recommended is a value in between, such that the results you use often are prefe
         <translation></translation>
     </message>
     <message>
+        <source>Use system language</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Share usage data</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Credits:</source>
         <translation></translation>
     </message>
@@ -459,6 +461,10 @@ Recommended is a value in between, such that the results you use often are prefe
         <translation></translation>
     </message>
     <message>
+        <source>No translations available for your language.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Hotkey</source>
         <translation></translation>
     </message>
@@ -468,10 +474,6 @@ Recommended is a value in between, such that the results you use often are prefe
     </message>
     <message>
         <source>Press a key combination</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Telemetry</source>
         <translation></translation>
     </message>
     <message>
@@ -525,6 +527,17 @@ Recommended is a value in between, such that the results you use often are prefe
     </message>
     <message>
         <source>Trigger completions</source>
+        <translation></translation>
+    </message>
+</context>
+<context>
+    <name>albert::QueryResults</name>
+    <message>
+        <source>Exception in action</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Unknown exception in action</source>
         <translation></translation>
     </message>
 </context>
