@@ -444,6 +444,12 @@ Une valeur intermédiaire est recommandée, de sorte que les résultats que vous
         <translation>Crédits :</translation>
     </message>
     <message>
+        <source>Press a key combination
+Backspace to clear · Escape to cancel</source>
+        <translation>Appuyez sur une combinaison de touches
+Retour arrière pour effacer · Échap pour annuler</translation>
+    </message>
+    <message>
         <source>&amp;Window</source>
         <translation>&amp;Fenêtre</translation>
     </message>
@@ -474,10 +480,6 @@ Une valeur intermédiaire est recommandée, de sorte que les résultats que vous
     <message>
         <source>Set hotkey</source>
         <translation>Définir le raccourci clavier</translation>
-    </message>
-    <message>
-        <source>Press a key combination</source>
-        <translation>Appuyez sur une combinaison de touches</translation>
     </message>
     <message>
         <source>Addtional PATH entries</source>

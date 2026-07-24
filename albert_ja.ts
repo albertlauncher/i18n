@@ -438,6 +438,12 @@ MRUを使用すると、過去のアクティブ化の重みの合計は新し�
         <translation>クレジット:</translation>
     </message>
     <message>
+        <source>Press a key combination
+Backspace to clear · Escape to cancel</source>
+        <translation>キーの組み合わせを押してください
+Backspace で消去 · Escape でキャンセル</translation>
+    </message>
+    <message>
         <source>&amp;Window</source>
         <translation>ウィンドウ(&amp;W)</translation>
     </message>
@@ -468,10 +474,6 @@ MRUを使用すると、過去のアクティブ化の重みの合計は新し�
     <message>
         <source>Set hotkey</source>
         <translation>ホットキーを設定</translation>
-    </message>
-    <message>
-        <source>Press a key combination</source>
-        <translation>キーの組み合わせを押してください</translation>
     </message>
     <message>
         <source>Addtional PATH entries</source>

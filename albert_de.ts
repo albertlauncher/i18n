@@ -444,6 +444,12 @@ Empfohlen wird ein Wert dazwischen, sodass die Ergebnisse, die Sie häufig verwe
         <translation>Danksagungen:</translation>
     </message>
     <message>
+        <source>Press a key combination
+Backspace to clear · Escape to cancel</source>
+        <translation>Drücke eine Tastenkombination
+Backspace zum Löschen · Escape zum Abbrechen</translation>
+    </message>
+    <message>
         <source>&amp;Window</source>
         <translation>&amp;Fenster</translation>
     </message>
@@ -474,10 +480,6 @@ Empfohlen wird ein Wert dazwischen, sodass die Ergebnisse, die Sie häufig verwe
     <message>
         <source>Set hotkey</source>
         <translation>Tastenkürzel festlegen</translation>
-    </message>
-    <message>
-        <source>Press a key combination</source>
-        <translation>Drücke ein Tastenkürzel</translation>
     </message>
     <message>
         <source>Addtional PATH entries</source>

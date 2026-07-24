@@ -438,6 +438,12 @@ MRU를 사용하면 과거 활성화의 가중치 합이 더 새로운 것의 �
         <translation>크레딧:</translation>
     </message>
     <message>
+        <source>Press a key combination
+Backspace to clear · Escape to cancel</source>
+        <translation>키 조합을 누르세요
+Backspace로 지우기 · Escape로 취소</translation>
+    </message>
+    <message>
         <source>&amp;Window</source>
         <translation>윈도우(&amp;W)</translation>
     </message>
@@ -468,10 +474,6 @@ MRU를 사용하면 과거 활성화의 가중치 합이 더 새로운 것의 �
     <message>
         <source>Set hotkey</source>
         <translation>핫키 설정</translation>
-    </message>
-    <message>
-        <source>Press a key combination</source>
-        <translation>키 조합을 누르세요</translation>
     </message>
     <message>
         <source>Addtional PATH entries</source>

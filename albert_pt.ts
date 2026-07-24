@@ -444,6 +444,12 @@ Recomenda-se um valor intermediário, de modo que os resultados que você usa co
         <translation>Créditos:</translation>
     </message>
     <message>
+        <source>Press a key combination
+Backspace to clear · Escape to cancel</source>
+        <translation>Pressione uma combinação de teclas
+Backspace para limpar · Escape para cancelar</translation>
+    </message>
+    <message>
         <source>&amp;Window</source>
         <translation>&amp;Janela</translation>
     </message>
@@ -474,10 +480,6 @@ Recomenda-se um valor intermediário, de modo que os resultados que você usa co
     <message>
         <source>Set hotkey</source>
         <translation>Definir atalho</translation>
-    </message>
-    <message>
-        <source>Press a key combination</source>
-        <translation>Pressione uma combinação de teclas</translation>
     </message>
     <message>
         <source>Addtional PATH entries</source>

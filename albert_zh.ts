@@ -438,6 +438,12 @@ Recommended is a value in between, such that the results you use often are prefe
         <translation>致谢：</translation>
     </message>
     <message>
+        <source>Press a key combination
+Backspace to clear · Escape to cancel</source>
+        <translation>请按下快捷键组合
+Backspace 清除 · Escape 取消</translation>
+    </message>
+    <message>
         <source>&amp;Window</source>
         <translation>窗口(&amp;W)</translation>
     </message>
@@ -468,10 +474,6 @@ Recommended is a value in between, such that the results you use often are prefe
     <message>
         <source>Set hotkey</source>
         <translation>设置快捷键</translation>
-    </message>
-    <message>
-        <source>Press a key combination</source>
-        <translation>请按下快捷键组合</translation>
     </message>
     <message>
         <source>Addtional PATH entries</source>

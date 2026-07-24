@@ -444,6 +444,12 @@ Se recomienda un valor intermedio, de modo que los resultados que utiliza con fr
         <translation>Créditos:</translation>
     </message>
     <message>
+        <source>Press a key combination
+Backspace to clear · Escape to cancel</source>
+        <translation>Presione una combinación de teclas
+Retroceso para borrar · Escape para cancelar</translation>
+    </message>
+    <message>
         <source>&amp;Window</source>
         <translation>&amp;Ventana</translation>
     </message>
@@ -474,10 +480,6 @@ Se recomienda un valor intermedio, de modo que los resultados que utiliza con fr
     <message>
         <source>Set hotkey</source>
         <translation>Establecer atajo de teclado</translation>
-    </message>
-    <message>
-        <source>Press a key combination</source>
-        <translation>Presione una combinación de teclas</translation>
     </message>
     <message>
         <source>Addtional PATH entries</source>

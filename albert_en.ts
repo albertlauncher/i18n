@@ -441,6 +441,11 @@ Recommended is a value in between, such that the results you use often are prefe
         <translation></translation>
     </message>
     <message>
+        <source>Press a key combination
+Backspace to clear · Escape to cancel</source>
+        <translation></translation>
+    </message>
+    <message>
         <source>&amp;Window</source>
         <translation></translation>
     </message>
@@ -470,10 +475,6 @@ Recommended is a value in between, such that the results you use often are prefe
     </message>
     <message>
         <source>Set hotkey</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Press a key combination</source>
         <translation></translation>
     </message>
     <message>
